@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shæwrakan — Dictionary</title>
+<meta name="description" content="A dictionary of Shæwrakan, a constructed language with a Germanic/Slavic feel.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0c0d11; --surface:#15171e; --surface-2:#1c1f28;
+    --border:#2a2e3a; --text:#e9eaf0; --muted:#8b90a0;
+    --ac:#a98cf0; --ac-soft:rgba(169,140,240,.13); --ac-line:rgba(169,140,240,.42);
+    --ac-glow:rgba(169,140,240,.25);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg); color:var(--text);
+    font-family:'Outfit',sans-serif; line-height:1.55;
+    min-height:100vh;
+    background-image:
+      radial-gradient(circle at 15% -5%, rgba(169,140,240,.10), transparent 45%),
+      radial-gradient(circle at 90% 5%, rgba(169,140,240,.05), transparent 40%);
+    background-attachment:fixed;
+  }
+  .wrap{max-width:920px; margin:0 auto; padding:0 20px}
+
+  /* header */
+  header{padding:54px 0 26px; text-align:center}
+  .logo{font-family:'Fraunces',serif; font-weight:700; font-size:clamp(40px,8vw,68px);
+    letter-spacing:-.03em; line-height:1; background:linear-gradient(180deg,#fff,#c9bdf5);
+    -webkit-background-clip:text; background-clip:text; color:transparent;}
+  .tagline{color:var(--muted); margin-top:12px; font-size:15px}
+  .tagline b{color:var(--ac); font-weight:500}
+
+  /* search */
+  .searchbar{position:sticky; top:0; z-index:20; padding:16px 0 14px;
+    background:linear-gradient(180deg,var(--bg) 70%, transparent);
+    backdrop-filter:blur(2px);}
+  .search-inner{position:relative}
+  #search{
+    width:100%; padding:15px 48px 15px 18px; font-size:16px; font-family:inherit;
+    color:var(--text); background:var(--surface); border:1px solid var(--border);
+    border-radius:14px; outline:none; transition:border-color .2s, box-shadow .2s;
+  }
+  #search::placeholder{color:var(--muted)}
+  #search:focus{border-color:var(--ac-line); box-shadow:0 0 0 4px var(--ac-soft)}
+  .search-icon{position:absolute; right:16px; top:50%; transform:translateY(-50%); color:var(--muted); pointer-events:none}
+
+  /* filters */
+  .filters{display:flex; gap:8px; flex-wrap:wrap; padding:4px 0 18px}
+  .chip{font-size:12.5px; padding:6px 13px; border-radius:20px; cursor:pointer;
+    background:var(--surface); border:1px solid var(--border); color:var(--muted);
+    transition:all .15s; white-space:nowrap; user-select:none;}
+  .chip:hover{color:var(--text); border-color:var(--ac-line)}
+  .chip.active{background:var(--ac-soft); color:var(--ac); border-color:var(--ac-line)}
+  .count{color:var(--muted); font-size:13px; padding:0 0 14px}
+
+  /* entries */
+  .grid{display:flex; flex-direction:column; gap:13px; padding-bottom:60px}
+  .card{
+    background:var(--surface); border:1px solid var(--border); border-radius:15px;
+    padding:18px 20px; transition:border-color .2s, transform .15s;
+    animation:rise .4s ease backwards;
+  }
+  .card:hover{border-color:var(--ac-line); transform:translateY(-1px)}
+  @keyframes rise{from{opacity:0; transform:translateY(8px)} to{opacity:1}}
+  .row1{display:flex; align-items:baseline; gap:12px; flex-wrap:wrap}
+  .word{font-family:'Fraunces',serif; font-weight:600; font-size:31px; color:var(--ac);
+    letter-spacing:-.01em; line-height:1.1; text-shadow:0 0 24px var(--ac-glow)}
+  .eng{font-size:16px; color:var(--text)}
+  .tags{display:flex; gap:7px; margin:11px 0 0; flex-wrap:wrap}
+  .tag{font-size:11px; padding:3px 10px; border-radius:20px; font-weight:500; letter-spacing:.02em}
+  .pos{background:var(--ac-soft); color:var(--ac); border:1px solid var(--ac-line)}
+  .cat{background:transparent; color:var(--muted); border:1px solid var(--border); cursor:pointer}
+  .cat:hover{color:var(--text); border-color:var(--ac-line)}
+  .notes{font-size:13.5px; color:var(--muted); margin-top:11px}
+  .ex{border-left:2.5px solid var(--ac-line); padding:5px 0 5px 13px; margin-top:12px}
+  .ex-sh{font-family:'Fraunces',serif; font-size:15.5px; color:var(--text)}
+  .ex-en{font-size:13px; color:var(--muted); font-style:italic; margin-top:2px}
+  mark{background:var(--ac-soft); color:var(--ac); border-radius:3px; padding:0 2px}
+
+  .empty{text-align:center; color:var(--muted); padding:60px 0; font-size:15px}
+  .loading{text-align:center; color:var(--muted); padding:60px 0}
+  footer{text-align:center; color:var(--muted); font-size:12.5px; padding:30px 0 50px; border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="logo">Shæwrakan</div>
+    <div class="tagline">A dictionary of the <b>Shæwrakan</b> language · <span id="total">—</span> words</div>
+  </header>
+
+  <div class="searchbar">
+    <div class="search-inner">
+      <input id="search" type="text" placeholder="Search Shæwrakan or English…" autocomplete="off" spellcheck="false">
+      <span class="search-icon">⌕</span>
+    </div>
+  </div>
+
+  <div class="filters" id="filters"></div>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"><div class="loading">Loading lexicon…</div></div>
+
+  <footer>Shæwrakan dictionary · built for GitHub Pages · static &amp; secure</footer>
+</div>
+
+<script>
+"use strict";
+let LEX = [];
+let activeCat = "All";
+let query = "";
+
+const $ = id => document.getElementById(id);
+
+// Escape any text before inserting into the DOM — prevents HTML injection from data.
+function esc(s){
+  return String(s ?? "")
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;").replace(/'/g,"&#39;");
+}
+// Highlight matches AFTER escaping, so only our <mark> tags are real HTML.
+function highlight(escaped, q){
+  if(!q) return escaped;
+  const safe = q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+  return escaped.replace(new RegExp("("+safe+")","gi"), "<mark>$1</mark>");
+}
+
+function render(){
+  const grid = $("grid");
+  const q = query.trim().toLowerCase();
+  let list = LEX.filter(e=>{
+    const catOk = activeCat==="All" || e.category===activeCat;
+    if(!catOk) return false;
+    if(!q) return true;
+    return (e.word||"").toLowerCase().includes(q)
+        || (e.english||"").toLowerCase().includes(q)
+        || (e.notes||"").toLowerCase().includes(q);
+  });
+
+  $("count").textContent = list.length + (list.length===1?" word":" words")
+    + (activeCat!=="All" ? " in "+activeCat : "") + (q ? ' matching "'+query.trim()+'"' : "");
+
+  if(!list.length){ grid.innerHTML = '<div class="empty">No words found. Try a different search or category.</div>'; return; }
+
+  grid.innerHTML = list.map((e,i)=>{
+    const word = highlight(esc(e.word), q);
+    const eng  = highlight(esc(e.english), q);
+    const notes = e.notes ? '<div class="notes">'+highlight(esc(e.notes), q)+'</div>' : '';
+    const ex = e.example ? '<div class="ex"><div class="ex-sh">'+esc(e.example)+'</div>'
+                + (e.example_en?'<div class="ex-en">'+esc(e.example_en)+'</div>':'') +'</div>' : '';
+    return '<div class="card" style="animation-delay:'+Math.min(i*18,360)+'ms">'
+      + '<div class="row1"><span class="word">'+word+'</span><span class="eng">'+eng+'</span></div>'
+      + '<div class="tags"><span class="tag pos">'+esc(e.pos)+'</span>'
+      + '<span class="tag cat" data-cat="'+esc(e.category)+'">'+esc(e.category)+'</span></div>'
+      + notes + ex + '</div>';
+  }).join("");
+}
+
+function buildFilters(){
+  const cats = ["All", ...Array.from(new Set(LEX.map(e=>e.category))).sort((a,b)=>a.localeCompare(b))];
+  $("filters").innerHTML = cats.map(c=>
+    '<span class="chip'+(c===activeCat?' active':'')+'" data-cat="'+esc(c)+'">'+esc(c)+'</span>'
+  ).join("");
+}
+
+// Event delegation (no inline handlers) — clicks on chips or category tags filter.
+document.addEventListener("click", e=>{
+  const chip = e.target.closest(".chip");
+  if(chip){ activeCat = chip.dataset.cat; buildFilters(); render(); window.scrollTo({top:0,behavior:"smooth"}); return; }
+  const catTag = e.target.closest(".cat");
+  if(catTag && catTag.dataset.cat){ activeCat = catTag.dataset.cat; buildFilters(); render(); window.scrollTo({top:0,behavior:"smooth"}); }
+});
+
+$("search").addEventListener("input", e=>{ query = e.target.value; render(); });
+
+fetch("lexicon.json")
+  .then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data=>{
+    LEX = Array.isArray(data) ? data : [];
+    $("total").textContent = LEX.length;
+    buildFilters();
+    render();
+  })
+  .catch(err=>{
+    $("grid").innerHTML = '<div class="empty">Could not load <code>lexicon.json</code>.<br>'
+      + 'If opening locally, run a local server (see README); on GitHub Pages it loads automatically.</div>';
+    console.error(err);
+  });
+</script>
+</body>
+</html>
