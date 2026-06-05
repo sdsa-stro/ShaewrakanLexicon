@@ -4,3284 +4,3711 @@
   "english": "I",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: dam; gen: mør",
-  "example": "Da de pørsøn.",
-  "example_en": "I am a person."
+  "examples": [
+   {
+    "sh": "Da de pørsøn.",
+    "en": "I am a person."
+   }
+  ]
  },
  {
   "word": "di",
   "english": "you (informal)",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Informal",
   "notes": "Nom; acc: dim; gen: dør",
-  "example": "Di dəg stuh.",
-  "example_en": "You are big."
+  "examples": [
+   {
+    "sh": "Di dəg stuh.",
+    "en": "You are big."
+   }
+  ]
  },
  {
   "word": "dia",
   "english": "you (formal)",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Formal",
   "notes": "Nom; acc: diam; gen: døra",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ŋe",
   "english": "he",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: ŋem; gen: ŋer",
-  "example": "Ŋe gønæ æt gə strøvøksi.",
-  "example_en": "He goes to the city."
+  "examples": [
+   {
+    "sh": "Ŋe gønæ æt gə strøvøksi.",
+    "en": "He goes to the city."
+   }
+  ]
  },
  {
   "word": "ŋi",
   "english": "she",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: ŋim; gen: ŋir",
-  "example": "Ŋi nøvæ gə rakin.",
-  "example_en": "She knows the language."
+  "examples": [
+   {
+    "sh": "Ŋi nøvæ gə rakin.",
+    "en": "She knows the language."
+   }
+  ]
  },
  {
   "word": "ŋø",
   "english": "they (singular neutral)",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: ŋøm; gen: ŋør",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ve",
   "english": "it / non-human",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: vem; gen: ver",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "døs",
   "english": "we",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: døsm; gen: døsr",
-  "example": "Døs agøs trædøn.",
-  "example_en": "We are merchants."
+  "examples": [
+   {
+    "sh": "Døs agøs trædøn.",
+    "en": "We are merchants."
+   }
+  ]
  },
  {
   "word": "diw",
   "english": "you all",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: diwm; gen: diwr",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ŋæw",
   "english": "they (plural)",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Nom; acc: ŋæwm; gen: ŋæwr",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "mør",
   "english": "my",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Neutral",
   "notes": "Genitive of da",
-  "example": "Mør døgí de fuh.",
-  "example_en": "My dog is small."
+  "examples": [
+   {
+    "sh": "Mør døgí de fuh.",
+    "en": "My dog is small."
+   }
+  ]
  },
  {
   "word": "dør",
   "english": "your (informal)",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Informal",
   "notes": "Genitive of di",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "døra",
   "english": "your (formal)",
   "pos": "Pronoun",
   "category": "Pronouns",
+  "formality": "Formal",
   "notes": "Genitive of dia",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "gə",
   "english": "the",
   "pos": "Article",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Definite article",
-  "example": "Gə dənsh de cha.",
-  "example_en": "The ocean is cold."
+  "examples": [
+   {
+    "sh": "Gə dənsh de cha.",
+    "en": "The ocean is cold."
+   }
+  ]
  },
  {
   "word": "a",
   "english": "a",
   "pos": "Article",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Indefinite article",
-  "example": "Da hævæ a sha.",
-  "example_en": "I have a shark."
+  "examples": [
+   {
+    "sh": "Da hævæ a sha.",
+    "en": "I have a shark."
+   }
+  ]
  },
  {
   "word": "lu",
   "english": "of",
   "pos": "Preposition",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Also genitive suffix -lu; omitted in company/agency names",
-  "example": "Gə rakin lu shæwaka.",
-  "example_en": "The language of Shæwaka."
+  "examples": [
+   {
+    "sh": "Gə rakin lu shæwaka.",
+    "en": "The language of Shæwaka."
+   }
+  ]
  },
  {
   "word": "da'g",
   "english": "I'm",
   "pos": "Contraction",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Contraction of da + ag",
-  "example": "Da'g ən gə strøvøksi.",
-  "example_en": "I'm in the city."
+  "examples": [
+   {
+    "sh": "Da'g ən gə strøvøksi.",
+    "en": "I'm in the city."
+   }
+  ]
  },
  {
   "word": "ni",
   "english": "no / not",
   "pos": "Particle",
   "category": "Function Words",
+  "formality": "Informal",
   "notes": "Negation; before verb (informal), after verb (formal)",
-  "example": "Da ni nøvæ.",
-  "example_en": "I do not know."
+  "examples": [
+   {
+    "sh": "Da ni nøvæ.",
+    "en": "I do not know."
+   }
+  ]
  },
  {
   "word": "mi",
   "english": "yes",
   "pos": "Particle",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Mi, da wølæ ve.",
-  "example_en": "Yes, I want it."
+  "examples": [
+   {
+    "sh": "Mi, da wølæ ve.",
+    "en": "Yes, I want it."
+   }
+  ]
  },
  {
   "word": "kuna",
   "english": "okay",
   "pos": "Particle",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ag",
   "english": "am",
   "pos": "Verb",
   "category": "To Be (irregular)",
+  "formality": "Neutral",
   "notes": "1st singular present",
-  "example": "Da ag trædøn.",
-  "example_en": "I am a merchant."
+  "examples": [
+   {
+    "sh": "Da ag trædøn.",
+    "en": "I am a merchant."
+   }
+  ]
  },
  {
   "word": "dəg",
   "english": "are (you)",
   "pos": "Verb",
   "category": "To Be (irregular)",
+  "formality": "Neutral",
   "notes": "2nd singular present",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "de",
   "english": "is",
   "pos": "Verb",
   "category": "To Be (irregular)",
+  "formality": "Neutral",
   "notes": "3rd singular present",
-  "example": "Gə sha de stuh.",
-  "example_en": "The shark is big."
+  "examples": [
+   {
+    "sh": "Gə sha de stuh.",
+    "en": "The shark is big."
+   }
+  ]
  },
  {
   "word": "agøs",
   "english": "are (we)",
   "pos": "Verb",
   "category": "To Be (irregular)",
+  "formality": "Neutral",
   "notes": "1st plural present",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nudiw",
   "english": "are (you all)",
   "pos": "Verb",
   "category": "To Be (irregular)",
+  "formality": "Neutral",
   "notes": "2nd plural present",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nuŋ",
   "english": "are (they)",
   "pos": "Verb",
   "category": "To Be (irregular)",
+  "formality": "Neutral",
   "notes": "3rd plural present",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "æfi",
   "english": "to attack",
   "pos": "Verb",
   "category": "Verbs — Irregular",
+  "formality": "Neutral",
   "notes": "Oldest verb; culturally significant; predates infinitive system",
-  "example": "Gə shæw æfi gə ønsæ.",
-  "example_en": "The sharks attack the island."
+  "examples": [
+   {
+    "sh": "Gə shæw *æfi* gə ønsæ.",
+    "en": "The sharks *attack* the island."
+   },
+   {
+    "sh": "Ŋæw *æfi* nu.",
+    "en": "They *attack* now."
+   }
+  ]
  },
  {
   "word": "hævæ",
   "english": "to have",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da hævæ a døgí.",
-  "example_en": "I have a dog."
+  "examples": [
+   {
+    "sh": "Da hævæ a døgí.",
+    "en": "I have a dog."
+   }
+  ]
  },
  {
   "word": "dønæ",
   "english": "to do / make",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da dønæ mør wørk.",
-  "example_en": "I do my work."
+  "examples": [
+   {
+    "sh": "Da dønæ mør wørk.",
+    "en": "I do my work."
+   }
+  ]
  },
  {
   "word": "gønæ",
   "english": "to go",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Døs gønæ æt gə dənsh.",
-  "example_en": "We go to the ocean."
+  "examples": [
+   {
+    "sh": "Døs gønæ æt gə dənsh.",
+    "en": "We go to the ocean."
+   }
+  ]
  },
  {
   "word": "kømæ",
   "english": "to come",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Ŋe kømæ frøm gə ønsæ.",
-  "example_en": "He comes from the island."
+  "examples": [
+   {
+    "sh": "Ŋe kømæ frøm gə ønsæ.",
+    "en": "He comes from the island."
+   }
+  ]
  },
  {
   "word": "nøvæ",
   "english": "to know",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Distinct from nøvdørn (to request)",
-  "example": "Da nøvæ gə rakin.",
-  "example_en": "I know the language."
+  "examples": [
+   {
+    "sh": "Da nøvæ gə rakin.",
+    "en": "I know the language."
+   }
+  ]
  },
  {
   "word": "wølæ",
   "english": "to want",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Ŋi wølæ a husky.",
-  "example_en": "She wants a husky."
+  "examples": [
+   {
+    "sh": "Ŋi wølæ a husky.",
+    "en": "She wants a husky."
+   }
+  ]
  },
  {
   "word": "søvæ",
   "english": "to see",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da søvæ gə shæw.",
-  "example_en": "I see the sharks."
+  "examples": [
+   {
+    "sh": "Da søvæ gə shæw.",
+    "en": "I see the sharks."
+   }
+  ]
  },
  {
   "word": "gævæ",
   "english": "to give",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sætæ",
   "english": "to settle",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Distinct from sætæk (to put)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "drøvæ",
   "english": "to develop",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "grøvæ",
   "english": "to grow",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "kømønæ",
   "english": "to arrive",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Extension of kømæ",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdæ",
   "english": "to become",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "møvæ",
   "english": "to move",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "lætæ",
   "english": "to allow",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trædæ",
   "english": "to trade",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køpæ",
   "english": "to buy",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Døs køpæ gə trædsi.",
-  "example_en": "We buy the trade goods."
+  "examples": [
+   {
+    "sh": "Døs køpæ gə trædsi.",
+    "en": "We buy the trade goods."
+   }
+  ]
  },
  {
   "word": "sælæ",
   "english": "to sell",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Ŋe sælæ a døgí.",
-  "example_en": "He sells a dog."
+  "examples": [
+   {
+    "sh": "Ŋe sælæ a døgí.",
+    "en": "He sells a dog."
+   }
+  ]
  },
  {
   "word": "bødæ",
   "english": "to offer",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "løsæ",
   "english": "to lose",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "wønæ",
   "english": "to win",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "særvæ",
   "english": "to serve",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "kælæ",
   "english": "to call (out)",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Distinct from nømæ (to name)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "løsænæ",
   "english": "to ease",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "drøvønæ",
   "english": "to improve",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nødæ",
   "english": "to need",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dønkæ",
   "english": "to think",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "wørkæ",
   "english": "to work",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da wørkæ æt gə kømpæni.",
-  "example_en": "I work at the company."
+  "examples": [
+   {
+    "sh": "Da wørkæ æt gə kømpæni.",
+    "en": "I work at the company."
+   }
+  ]
  },
  {
   "word": "lævæ",
   "english": "to live",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Distinct from lævørn (to leave formally)",
-  "example": "Døs lævæ ən shæwaka.",
-  "example_en": "We live in Shæwaka."
+  "examples": [
+   {
+    "sh": "Døs lævæ ən shæwaka.",
+    "en": "We live in Shæwaka."
+   }
+  ]
  },
  {
   "word": "høldæ",
   "english": "to keep",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nømæ",
   "english": "to name / call",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Distinct from kælæ (to call out)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "møtæ",
   "english": "to meet",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "spræk",
   "english": "to say / speak",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Irregular -æk ending; speech act",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "møsafi",
   "english": "to introduce oneself",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Derived from møsa",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "mænafi",
   "english": "to apologize",
   "pos": "Verb",
   "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
   "notes": "Derived from mæna",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nøvdørn",
   "english": "to request / offer",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Formal",
   "notes": "Root nøvd-; used in formal request phrase",
-  "example": "Da nøvdørn føla gə rækøntøn.",
-  "example_en": "I formally request the account, please."
+  "examples": [
+   {
+    "sh": "Da nøvdørn føla gə rækøntøn.",
+    "en": "I formally request the account, please."
+   }
+  ]
  },
  {
   "word": "strøbørn",
   "english": "to establish",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "Ŋæw strøbørn a prøspæksi.",
-  "example_en": "They establish a country."
+  "examples": [
+   {
+    "sh": "Ŋæw strøbørn a prøspæksi.",
+    "en": "They establish a country."
+   }
+  ]
  },
  {
   "word": "prøstørn",
   "english": "to place",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvørn",
   "english": "to rule / turn",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "Gə strøvøkpørsøn prøvørn gə pølænsíne.",
-  "example_en": "The citizen rules the province."
+  "examples": [
+   {
+    "sh": "Gə strøvøkpørsøn prøvørn gə pølænsíne.",
+    "en": "The citizen rules the province."
+   }
+  ]
  },
  {
   "word": "strøvørn",
   "english": "to govern",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køntrølørn",
   "english": "to control",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøkøpørn",
   "english": "to occupy",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dæklærørn",
   "english": "to declare",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøknørn",
   "english": "to sign",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prømændørn",
   "english": "to amend",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøpønørn",
   "english": "to appoint",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "rønørn",
   "english": "to reject",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøbændørn",
   "english": "to forbid",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøhævørn",
   "english": "to maintain",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- + hæv (have) compound",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvændørn",
   "english": "to prevent",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøkøpørn",
   "english": "to export",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkørn",
   "english": "to import",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøtækørn",
   "english": "to tax",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøgøvørn",
   "english": "to negotiate",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "rəzøltørn",
   "english": "to result",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøsætørn",
   "english": "to position",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøpøzørn",
   "english": "to propose",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdøn",
   "english": "to agree",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "kønstrøvørn",
   "english": "to conduct",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdønørn",
   "english": "to join",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvælun",
   "english": "to date back",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "Compound: strø + vælun (since)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "grøvørn",
   "english": "to expand",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "Echoes grøvæ (grow)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøstrøvørn",
   "english": "to prosecute",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøkælørn",
   "english": "to demand",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "høldørn",
   "english": "to hold (authority)",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "Governmental form of høldæ",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "lævørn",
   "english": "to leave (formally)",
   "pos": "Verb",
   "category": "Verbs — Governmental (-ørn)",
+  "formality": "Neutral",
   "notes": "Governmental form of lævæ",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "brøkæk",
   "english": "to use",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da brøkæk gə køng.",
-  "example_en": "I use the water."
+  "examples": [
+   {
+    "sh": "Da brøkæk gə køng.",
+    "en": "I use the water."
+   }
+  ]
  },
  {
   "word": "prøkæk",
   "english": "to push",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Ŋe prøkæk gə sha.",
-  "example_en": "He pushes the shark."
+  "examples": [
+   {
+    "sh": "Ŋe prøkæk gə sha.",
+    "en": "He pushes the shark."
+   }
+  ]
  },
  {
   "word": "inværdæk",
   "english": "to invade",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Ŋæw inværdæk gə ønsæ.",
-  "example_en": "They invade the island."
+  "examples": [
+   {
+    "sh": "Ŋæw inværdæk gə ønsæ.",
+    "en": "They invade the island."
+   }
+  ]
  },
  {
   "word": "kæmpæk",
   "english": "to fight",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Døs kæmpæk øv gə køngløn.",
-  "example_en": "We fight on the coast."
+  "examples": [
+   {
+    "sh": "Døs kæmpæk øv gə køngløn.",
+    "en": "We fight on the coast."
+   }
+  ]
  },
  {
   "word": "røvøltæk",
   "english": "to revolt",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strønsæk",
   "english": "to launch",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "tækæk",
   "english": "to take",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkæk",
   "english": "to thwart",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sætæk",
   "english": "to put",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "Distinct from sætæ (to settle)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strønæk",
   "english": "to send",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "brøŋæk",
   "english": "to bring",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "əntrækæk",
   "english": "to enter",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "røvørnæk",
   "english": "to return",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvændæk",
   "english": "to lead",
   "pos": "Verb",
   "category": "Verbs — Physical (-æk)",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sha",
   "english": "shark",
   "pos": "Noun",
   "category": "Animals & Species",
+  "formality": "Neutral",
   "notes": "Singular; sacred cultural word",
-  "example": "Gə sha de cha øn stuh.",
-  "example_en": "The shark is cold and big."
+  "examples": [
+   {
+    "sh": "Gə *sha* de cha øn stuh.",
+    "en": "The *shark* is cold and big."
+   },
+   {
+    "sh": "Da søvæ a *sha* ən gə dənsh.",
+    "en": "I see a *shark* in the ocean."
+   }
+  ]
  },
  {
   "word": "shæw",
   "english": "sharks",
   "pos": "Noun",
   "category": "Animals & Species",
+  "formality": "Neutral",
   "notes": "Plural of sha; SACRED WORD",
-  "example": "Gə shæw de sakredən.",
-  "example_en": "The sharks are sacred."
+  "examples": [
+   {
+    "sh": "Gə shæw de sakredən.",
+    "en": "The sharks are sacred."
+   }
+  ]
  },
  {
   "word": "døgí",
   "english": "dog",
   "pos": "Noun",
   "category": "Animals & Species",
+  "formality": "Neutral",
   "notes": "-í species marker",
-  "example": "Mør døgí de fuh.",
-  "example_en": "My dog is small."
+  "examples": [
+   {
+    "sh": "Mør døgí de fuh.",
+    "en": "My dog is small."
+   }
+  ]
  },
  {
   "word": "unakí",
   "english": "husky",
   "pos": "Noun",
   "category": "Animals & Species",
+  "formality": "Neutral",
   "notes": "-í species marker",
-  "example": "Da hævæ a unakí.",
-  "example_en": "I have a husky."
+  "examples": [
+   {
+    "sh": "Da hævæ a unakí.",
+    "en": "I have a husky."
+   }
+  ]
  },
  {
   "word": "pølædogí",
   "english": "skulldog",
   "pos": "Noun",
   "category": "Animals & Species",
+  "formality": "Neutral",
   "notes": "-í species marker",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøgnsi",
   "english": "protogen",
   "pos": "Noun",
   "category": "Animals & Species",
+  "formality": "Neutral",
   "notes": "Grammatically ve until autonomy granted",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøgnsiew",
   "english": "protogens",
   "pos": "Noun",
   "category": "Animals & Species",
+  "formality": "Neutral",
   "notes": "Plural of prøgnsi",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køng",
   "english": "water",
   "pos": "Noun",
   "category": "Nature & Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə køng de cha.",
-  "example_en": "The water is cold."
+  "examples": [
+   {
+    "sh": "Gə køng de cha.",
+    "en": "The water is cold."
+   }
+  ]
  },
  {
   "word": "ji",
   "english": "sand",
   "pos": "Noun",
   "category": "Nature & Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə ji de ŋak.",
-  "example_en": "The sand is hot."
+  "examples": [
+   {
+    "sh": "Gə ji de ŋak.",
+    "en": "The sand is hot."
+   }
+  ]
  },
  {
   "word": "dənsh",
   "english": "ocean",
   "pos": "Noun",
   "category": "Nature & Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə dənsh de stuh.",
-  "example_en": "The ocean is big."
+  "examples": [
+   {
+    "sh": "Gə dənsh de stuh.",
+    "en": "The ocean is big."
+   }
+  ]
  },
  {
   "word": "fahdənsh",
   "english": "sea",
   "pos": "Noun",
   "category": "Nature & Geography",
+  "formality": "Neutral",
   "notes": "Compound: fah + dənsh",
-  "example": "Døs gønæ æt gə fahdænsh.",
-  "example_en": "We go to the sea."
+  "examples": [
+   {
+    "sh": "Døs gønæ æt gə fahdænsh.",
+    "en": "We go to the sea."
+   }
+  ]
  },
  {
   "word": "sh'nøí",
   "english": "world",
   "pos": "Noun",
   "category": "Nature & Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "stuh",
   "english": "big",
   "pos": "Adjective",
   "category": "Descriptors",
+  "formality": "Neutral",
   "notes": "Gender agree: stuhon/stuhen/stuhan/stuhæsh",
-  "example": "Gə sha de stuh.",
-  "example_en": "The shark is big."
+  "examples": [
+   {
+    "sh": "Gə sha de stuh.",
+    "en": "The shark is big."
+   }
+  ]
  },
  {
   "word": "fuh",
   "english": "small",
   "pos": "Adjective",
   "category": "Descriptors",
+  "formality": "Neutral",
   "notes": "Gender agree: fuhon/fuhen/fuhan/fuhæsh",
-  "example": "Mør døgí de fuh.",
-  "example_en": "My dog is small."
+  "examples": [
+   {
+    "sh": "Mør døgí de fuh.",
+    "en": "My dog is small."
+   }
+  ]
  },
  {
   "word": "ŋak",
   "english": "hot",
   "pos": "Adjective",
   "category": "Descriptors",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə ji de ŋak.",
-  "example_en": "The sand is hot."
+  "examples": [
+   {
+    "sh": "Gə ji de ŋak.",
+    "en": "The sand is hot."
+   }
+  ]
  },
  {
   "word": "cha",
   "english": "cold",
   "pos": "Adjective",
   "category": "Descriptors",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə køng de cha.",
-  "example_en": "The water is cold."
+  "examples": [
+   {
+    "sh": "Gə køng de cha.",
+    "en": "The water is cold."
+   }
+  ]
  },
  {
   "word": "ŋacha",
   "english": "warm",
   "pos": "Adjective",
   "category": "Descriptors",
+  "formality": "Neutral",
   "notes": "Compound: ŋak + cha",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "pølæik",
   "english": "cute",
   "pos": "Adjective",
   "category": "Descriptors",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "kæl",
   "english": "red",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə sha de kæl.",
-  "example_en": "The shark is red."
+  "examples": [
+   {
+    "sh": "Gə sha de kæl.",
+    "en": "The shark is red."
+   }
+  ]
  },
  {
   "word": "ørar'al",
   "english": "orange (colour)",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ŋujik",
   "english": "yellow",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "gæof",
   "english": "green",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə ønsæ de gæof.",
-  "example_en": "The island is green."
+  "examples": [
+   {
+    "sh": "Gə ønsæ de gæof.",
+    "en": "The island is green."
+   }
+  ]
  },
  {
   "word": "bløf",
   "english": "blue",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "pərem",
   "english": "purple",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "koli",
   "english": "pink",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "miørca",
   "english": "brown",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ponel",
   "english": "white",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "olnəl",
   "english": "gray",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ølæf",
   "english": "black",
   "pos": "Adjective",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "shuíf",
   "english": "orange (fruit)",
   "pos": "Noun",
   "category": "Colours",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "møs",
   "english": "hi",
   "pos": "Interjection",
   "category": "Greetings & Social",
+  "formality": "Informal",
   "notes": "Informal greeting",
-  "example": "Møs! Di dəg kuna?",
-  "example_en": "Hi! Are you okay?"
+  "examples": [
+   {
+    "sh": "Møs! Di dəg kuna?",
+    "en": "Hi! Are you okay?"
+   }
+  ]
  },
  {
   "word": "møsa",
   "english": "hello",
   "pos": "Interjection",
   "category": "Greetings & Social",
+  "formality": "Formal",
   "notes": "Formal greeting",
-  "example": "Møsa, da ag trædøn.",
-  "example_en": "Hello, I am a merchant."
+  "examples": [
+   {
+    "sh": "*Møsa*, da ag trædøn.",
+    "en": "*Hello*, I am a merchant."
+   },
+   {
+    "sh": "*Møsa*, dia dəg kuna?",
+    "en": "*Hello*, are you (formal) well?"
+   }
+  ]
  },
  {
   "word": "vøs",
   "english": "bye",
   "pos": "Interjection",
   "category": "Greetings & Social",
+  "formality": "Informal",
   "notes": "Informal farewell",
-  "example": "Vøs! Da gønæ nøv.",
-  "example_en": "Bye! I go now."
+  "examples": [
+   {
+    "sh": "Vøs! Da gønæ nøv.",
+    "en": "Bye! I go now."
+   }
+  ]
  },
  {
   "word": "føndsa",
   "english": "farewell",
   "pos": "Interjection",
   "category": "Greetings & Social",
+  "formality": "Formal",
   "notes": "Formal farewell",
-  "example": "Føndsa, mør frønd.",
-  "example_en": "Farewell, my friend."
+  "examples": [
+   {
+    "sh": "Føndsa, mør frønd.",
+    "en": "Farewell, my friend."
+   }
+  ]
  },
  {
   "word": "fænsí",
   "english": "thank",
   "pos": "Verb",
   "category": "Greetings & Social",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "îm",
   "english": "love",
   "pos": "Noun/Verb",
   "category": "Greetings & Social",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "mæna",
   "english": "sorry / my apologies",
   "pos": "Interjection",
   "category": "Apologies & Requests",
+  "formality": "Formal",
   "notes": "Casual formal; carries cultural weight",
-  "example": "Mæna, da ni nøvæ.",
-  "example_en": "My apologies, I did not know."
+  "examples": [
+   {
+    "sh": "Mæna, da ni nøvæ.",
+    "en": "My apologies, I did not know."
+   }
+  ]
  },
  {
   "word": "øvna",
   "english": "sorry (casual)",
   "pos": "Interjection",
   "category": "Apologies & Requests",
+  "formality": "Informal",
   "notes": "Informal apology",
-  "example": "Øvna! Da ni søvæ di.",
-  "example_en": "Sorry! I didn't see you."
+  "examples": [
+   {
+    "sh": "Øvna! Da ni søvæ di.",
+    "en": "Sorry! I didn't see you."
+   }
+  ]
  },
  {
   "word": "føla",
   "english": "please",
   "pos": "Particle",
   "category": "Apologies & Requests",
+  "formality": "Formal",
   "notes": "Casual formal; placed before request",
-  "example": "Føla, gævæ dam gə køng.",
-  "example_en": "Please, give me the water."
+  "examples": [
+   {
+    "sh": "Føla, gævæ dam gə køng.",
+    "en": "Please, give me the water."
+   }
+  ]
  },
  {
   "word": "nøstvna",
   "english": "forgiveness",
   "pos": "Noun",
   "category": "Apologies & Requests",
+  "formality": "Formal",
   "notes": "Used in very formal apology phrase",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "øn",
   "english": "and",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da øn di gønæ.",
-  "example_en": "I and you go."
+  "examples": [
+   {
+    "sh": "Da øn di gønæ.",
+    "en": "I and you go."
+   }
+  ]
  },
  {
   "word": "vel",
   "english": "or",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "Distinct from ve (it pronoun)",
-  "example": "Køpæ a sha vel a døgí.",
-  "example_en": "Buy a shark or a dog."
+  "examples": [
+   {
+    "sh": "Køpæ a sha vel a døgí.",
+    "en": "Buy a shark or a dog."
+   }
+  ]
  },
  {
   "word": "mæk",
   "english": "but",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da wølæ ve, mæk da ni hævæ køpøn.",
-  "example_en": "I want it, but I have no money."
+  "examples": [
+   {
+    "sh": "Da wølæ ve, mæk da ni hævæ køpøn.",
+    "en": "I want it, but I have no money."
+   }
+  ]
  },
  {
   "word": "dæn",
   "english": "because",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da gønæ dæn da nødæ køng.",
-  "example_en": "I go because I need water."
+  "examples": [
+   {
+    "sh": "Da gønæ dæn da nødæ køng.",
+    "en": "I go because I need water."
+   }
+  ]
  },
  {
   "word": "søf",
   "english": "if",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køn",
   "english": "when",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "Distinct from køng (water)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dønø",
   "english": "so / therefore",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "fælun",
   "english": "until",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nækøs",
   "english": "after",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vælun",
   "english": "since",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "Echoes fælun",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ørvæ",
   "english": "while",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "mækøn",
   "english": "although",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "Echoes mæk (but)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "tæ",
   "english": "that",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "møn",
   "english": "with",
   "pos": "Conjunction",
   "category": "Conjunctions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ən",
   "english": "in",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "Distinct from øn (and)",
-  "example": "Da lævæ ən gə strøvøksi.",
-  "example_en": "I live in the city."
+  "examples": [
+   {
+    "sh": "Da lævæ ən gə strøvøksi.",
+    "en": "I live in the city."
+   }
+  ]
  },
  {
   "word": "øv",
   "english": "on",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə sha de øv gə ji.",
-  "example_en": "The shark is on the sand."
+  "examples": [
+   {
+    "sh": "Gə sha de øv gə ji.",
+    "en": "The shark is on the sand."
+   }
+  ]
  },
  {
   "word": "æt",
   "english": "at",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Døs gønæ æt gə dənsh.",
-  "example_en": "We go to the ocean."
+  "examples": [
+   {
+    "sh": "Døs gønæ æt gə dənsh.",
+    "en": "We go to the ocean."
+   }
+  ]
  },
  {
   "word": "frøm",
   "english": "from",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Ŋe kømæ frøm shæwaka.",
-  "example_en": "He comes from Shæwaka."
+  "examples": [
+   {
+    "sh": "Ŋe kømæ frøm shæwaka.",
+    "en": "He comes from Shæwaka."
+   }
+  ]
  },
  {
   "word": "tø",
   "english": "to",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "æv",
   "english": "off",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nøra",
   "english": "near",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "øvra",
   "english": "over",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "rønda",
   "english": "around",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "unda",
   "english": "under",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vøntæ",
   "english": "between",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "løn",
   "english": "along",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ənntø",
   "english": "into",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "Compound: ən + tø",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "bæ",
   "english": "by",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "fər",
   "english": "for",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trøv",
   "english": "through",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "øbæ",
   "english": "about",
   "pos": "Preposition",
   "category": "Prepositions",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "rakin",
   "english": "language",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "-kin suffix = language of",
-  "example": "Gə rakin de stuh.",
-  "example_en": "The language is big."
+  "examples": [
+   {
+    "sh": "Gə rakin de stuh.",
+    "en": "The language is big."
+   }
+  ]
  },
  {
   "word": "shæwrakin",
   "english": "Shæwrakan (language)",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da nøvæ shæwrakin.",
-  "example_en": "I know Shæwrakan."
+  "examples": [
+   {
+    "sh": "Da nøvæ shæwrakin.",
+    "en": "I know Shæwrakan."
+   }
+  ]
  },
  {
   "word": "shæwaka",
   "english": "Shæwaka (country)",
   "pos": "Proper Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Døs lævæ ən shæwaka.",
-  "example_en": "We live in Shæwaka."
+  "examples": [
+   {
+    "sh": "Døs lævæ ən shæwaka.",
+    "en": "We live in Shæwaka."
+   }
+  ]
  },
  {
   "word": "pølænsíne",
   "english": "province",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə pølænsíne de stuh.",
-  "example_en": "The province is big."
+  "examples": [
+   {
+    "sh": "Gə pølænsíne de stuh.",
+    "en": "The province is big."
+   }
+  ]
  },
  {
   "word": "agənsi",
   "english": "agency (old form)",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "Superseded by strøvøkagørn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "defənsí",
   "english": "defense (old form)",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "Superseded by strøværdæk",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "æfsh'nø",
   "english": "force (old form)",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "Superseded by strøværdstrøn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "inøestíæ",
   "english": "investigation (old form)",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "Superseded by prøvøkstrøn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dəlukø",
   "english": "dollar",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "pəshiø",
   "english": "casino",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøspæk",
   "english": "republic",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøværn",
   "english": "federal",
   "pos": "Adjective",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøpøvæk",
   "english": "capital",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkt",
   "english": "district",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøstrøvænt",
   "english": "president",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøkstrøn",
   "english": "constitution",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- double cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkstrø",
   "english": "congress",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- + str-",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøkhøs",
   "english": "legislative house",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- cluster + høs root",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvørdørn",
   "english": "executive order",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prømændstrøn",
   "english": "amendment",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøfrøvæk",
   "english": "independence",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- + frø-",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøktstrø",
   "english": "authority",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- + str-",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvæk",
   "english": "law",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøktørn",
   "english": "court",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- cluster; distinct from legislative house",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdøstrøn",
   "english": "agreement",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvørdstrøn",
   "english": "treaty",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøpøvænt",
   "english": "representative",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvønt",
   "english": "envoy",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøktørn",
   "english": "domain",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvørnstrøn",
   "english": "government",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "Noun form of strøvørn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvænt",
   "english": "state",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøværdæk",
   "english": "military",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøværdstrøn",
   "english": "army",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- double cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøpøkt",
   "english": "base (military)",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkstrøn",
   "english": "report / investigation",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "pr- + str-",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøkænsørn",
   "english": "census",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøktstrøn",
   "english": "data",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Neutral",
   "notes": "Distinct from strøvøkstrøn (constitution)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøkagørn",
   "english": "agency (formal)",
   "pos": "Noun",
   "category": "Government & Institutional",
+  "formality": "Formal",
   "notes": "Formal replacement for agənsi",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "kømpæni",
   "english": "company",
   "pos": "Noun",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da wørkæ æt a kømpæni.",
-  "example_en": "I work at a company."
+  "examples": [
+   {
+    "sh": "Da wørkæ æt a kømpæni.",
+    "en": "I work at a company."
+   }
+  ]
  },
  {
   "word": "Prø.",
   "english": "private company",
   "pos": "Abbreviation",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "Ltd. / LLC equivalent",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "Str.",
   "english": "public company",
   "pos": "Abbreviation",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "Inc. / PLC equivalent",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "Strø.",
   "english": "government owned",
   "pos": "Abbreviation",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "State enterprise",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "Vør.",
   "english": "cooperative",
   "pos": "Abbreviation",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "Co-op equivalent",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "Ni.",
   "english": "non-profit",
   "pos": "Abbreviation",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "NGO equivalent",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "StrøNi.",
   "english": "gov. chartered non-profit",
   "pos": "Abbreviation",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "Hybrid agency status",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "StrøNiKæ.",
   "english": "gov. chartered census agency",
   "pos": "Abbreviation",
   "category": "Company Types",
+  "formality": "Neutral",
   "notes": "RSCDCA specific designation",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "pørsøn",
   "english": "person",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə pørsøn de cha.",
-  "example_en": "The person is cold."
+  "examples": [
+   {
+    "sh": "Gə pørsøn de cha.",
+    "en": "The person is cold."
+   }
+  ]
  },
  {
   "word": "pørsønew",
   "english": "people",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Plural of pørsøn",
-  "example": "Gə pørsønew gønæ æt gə strøvøksi.",
-  "example_en": "The people go to the city."
+  "examples": [
+   {
+    "sh": "Gə pørsønew gønæ æt gə strøvøksi.",
+    "en": "The people go to the city."
+   }
+  ]
  },
  {
   "word": "strøvøkpørsøn",
   "english": "citizen",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Compound: state + person",
-  "example": "Da ag strøvøkpørsøn lu shæwaka.",
-  "example_en": "I am a citizen of Shæwaka."
+  "examples": [
+   {
+    "sh": "Da ag strøvøkpørsøn lu shæwaka.",
+    "en": "I am a citizen of Shæwaka."
+   }
+  ]
  },
  {
   "word": "prøvøkpørsønew",
   "english": "population",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Plural form as base",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdøpørsøn",
   "english": "community / ally",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Compound: agree + person; also means ally",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trædøn",
   "english": "merchant (singular)",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "-øn agent suffix from trædæ",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trædønew",
   "english": "merchants",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Plural; used as base form",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "fæmøl",
   "english": "family",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "mømbrøn",
   "english": "member",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøværdøn",
   "english": "soldier",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Derived from strøværdæk (military)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøktøn",
   "english": "warden",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "grøvøn",
   "english": "farmer",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "-øn agent suffix from grøvæ",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køngøvøn",
   "english": "fisherwoman / fisher",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Compound: water + worker",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trædøvøn",
   "english": "trader",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "-øn agent suffix from trædæ",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "grøpøn",
   "english": "group",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkgrøpøn",
   "english": "party (formal)",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Formal",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvændøn",
   "english": "leader",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "-øn agent suffix from strøvændæk",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøbøn",
   "english": "founder",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "-øn agent suffix from strøbørn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøknøn",
   "english": "presence",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sætøn",
   "english": "settler",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "-øn agent suffix from sætæ",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "kæmpøn",
   "english": "enemy / fighter",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "-øn agent suffix from kæmpæk",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "frømpørsøn",
   "english": "foreigner",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Compound: from + person",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nørapørsøn",
   "english": "native",
   "pos": "Noun",
   "category": "People & Groups",
+  "formality": "Neutral",
   "notes": "Compound: near + person",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ønsæ",
   "english": "island",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə ønsæ de gæof.",
-  "example_en": "The island is green."
+  "examples": [
+   {
+    "sh": "Gə ønsæ de gæof.",
+    "en": "The island is green."
+   }
+  ]
  },
  {
   "word": "køngløn",
   "english": "coast",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Compound: water + along",
-  "example": "Døs lævæ øv gə køngløn.",
-  "example_en": "We live on the coast."
+  "examples": [
+   {
+    "sh": "Døs lævæ øv gə køngløn.",
+    "en": "We live on the coast."
+   }
+  ]
  },
  {
   "word": "strøvøksi",
   "english": "city",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Governmental designation",
-  "example": "Gə strøvøksi de stuh.",
-  "example_en": "The city is big."
+  "examples": [
+   {
+    "sh": "Gə strøvøksi de stuh.",
+    "en": "The city is big."
+   }
+  ]
  },
  {
   "word": "prøspæksi",
   "english": "country",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Compound: republic + place",
-  "example": "Shæwaka de a prøspæksi.",
-  "example_en": "Shæwaka is a country."
+  "examples": [
+   {
+    "sh": "Shæwaka de a prøspæksi.",
+    "en": "Shæwaka is a country."
+   }
+  ]
  },
  {
   "word": "prøvøktsi",
   "english": "territory",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "rønøsi",
   "english": "region",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Distinct from pølænsíne (province)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "lændøn",
   "english": "land",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køngøvsi",
   "english": "port",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Compound: water + entry",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trædøsi",
   "english": "market",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Derived from trædæ (to trade)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøpøktsi",
   "english": "outpost",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Derived from strøpøkt (military base)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sætønsi",
   "english": "settlement",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Derived from sætøn (settler)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "midøsi",
   "english": "center",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "høsøn",
   "english": "hall",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vøntæsi",
   "english": "border",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Derived from vøntæ (between)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøndsi",
   "english": "mountain",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køngøsi",
   "english": "river",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Compound: water + flow",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "drøvøsi",
   "english": "forest",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "lændøsi",
   "english": "plain",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Derived from lændøn (land)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køngønsi",
   "english": "bay",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Compound: water + near",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nørd",
   "english": "north",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sødn",
   "english": "south",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "øst",
   "english": "east",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vøst",
   "english": "west",
   "pos": "Noun",
   "category": "Geography",
+  "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trædsi",
   "english": "trade (noun)",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Distinct from trædøn (merchant)",
-  "example": "Gə trædsi de strøvøkæl.",
-  "example_en": "The trade is official."
+  "examples": [
+   {
+    "sh": "Gə trædsi de strøvøkæl.",
+    "en": "The trade is official."
+   }
+  ]
  },
  {
   "word": "strøkøpøn",
   "english": "export",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Via -øn from strøkøpørn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkøn",
   "english": "import",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Via -øn from prøvøkørn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvønstrøn",
   "english": "revenue",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Distinct from report",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøtækøn",
   "english": "tariff",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Via -øn from strøtækørn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøtæk",
   "english": "tax",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Root of strøtækørn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "trædøktøn",
   "english": "goods",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Distinct from market",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "spørsøn",
   "english": "spice",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "frøktøn",
   "english": "fruit",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "drøvøktøn",
   "english": "lumber",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Derived from drøvøsi (forest)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "fævrøn",
   "english": "fur",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "køngøn",
   "english": "fish",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Derived from køng (water)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøsøn",
   "english": "price",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøkdəlukø",
   "english": "currency",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Compound: state + dollar",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dəbtøn",
   "english": "debt",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvønøn",
   "english": "profit",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Distinct from warden",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "løsøn",
   "english": "loss",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "Derived from løsæ (to lose)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøktrøn",
   "english": "contract",
   "pos": "Noun",
   "category": "Trade & Economy",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "jærøn",
   "english": "year",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "A jærøn hævæ tøn mønøn.",
-  "example_en": "A year has many months."
+  "examples": [
+   {
+    "sh": "A jærøn hævæ tøn mønøn.",
+    "en": "A year has many months."
+   }
+  ]
  },
  {
   "word": "strøjærøn",
   "english": "century",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: hundred + year",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "tønjærøn",
   "english": "decade",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: ten + year",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "mønøn",
   "english": "month",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə mønøn de cha.",
-  "example_en": "The month is cold."
+  "examples": [
+   {
+    "sh": "Gə mønøn de cha.",
+    "en": "The month is cold."
+   }
+  ]
  },
  {
   "word": "vøkøn",
   "english": "week",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dægøn",
   "english": "day",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ørøn",
   "english": "hour",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "tímøn",
   "english": "time",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvælunsi",
   "english": "history",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: str- + vælun (since)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøtímøn",
   "english": "period",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "pr- + time compound",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøtímøn",
   "english": "era",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "str- + time compound",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dægøntímøn",
   "english": "date",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: day + time",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ørdægøn",
   "english": "morning",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: early + day",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "middægøn",
   "english": "afternoon",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: mid + day",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "løtdægøn",
   "english": "evening",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: late + day",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nøktøn",
   "english": "night",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nødægøn",
   "english": "today",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: now + day",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prødægøn",
   "english": "yesterday",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: before + day",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nækødægøn",
   "english": "tomorrow",
   "pos": "Noun",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: after + day",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nøv",
   "english": "now",
   "pos": "Adverb",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "tønøv",
   "english": "then",
   "pos": "Adverb",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "Compound: that + now",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sønnøv",
   "english": "soon",
   "pos": "Adverb",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "løtøn",
   "english": "late",
   "pos": "Adjective",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ørdøn",
   "english": "early",
   "pos": "Adjective",
   "category": "Time",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "rækøntøn",
   "english": "account",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Da hævæ a rækøntøn.",
-  "example_en": "I have an account."
+  "examples": [
+   {
+    "sh": "Da hævæ a rækøntøn.",
+    "en": "I have an account."
+   }
+  ]
  },
  {
   "word": "kæmpønsi",
   "english": "conflict",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Derived from kæmpøn (fighter)",
-  "example": "Gə kæmpønsi de stuh.",
-  "example_en": "The conflict is big."
+  "examples": [
+   {
+    "sh": "Gə kæmpønsi de stuh.",
+    "en": "The conflict is big."
+   }
+  ]
  },
  {
   "word": "strøkæmpøn",
   "english": "tension",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Formal",
   "notes": "Formal conflict",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøkdispøn",
   "english": "dispute",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøblømøn",
   "english": "problem",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdøblømøn",
   "english": "solution",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Compound: agree + problem",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "stætøn",
   "english": "condition",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdønsi",
   "english": "change",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Derived from vørdøn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "kømønstrøn",
   "english": "influx",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Derived from kømønæ (to arrive)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøkæmpøn",
   "english": "attempt",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "pr- + fight compound",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvækøn",
   "english": "rule (noun)",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Derived from strøvæk (law)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøksøn",
   "english": "system",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøktørøn",
   "english": "structure",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dønøn",
   "english": "thing",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Derived from dønæ (to do/make)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vægøn",
   "english": "way",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Germanic weg feel",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nømøn",
   "english": "name",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Derived from nømæ (to name)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nømbrøn",
   "english": "number",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dæløn",
   "english": "part",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Germanic deel feel",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sídøn",
   "english": "side",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøntøn",
   "english": "point",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "dænøn",
   "english": "reason",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "Derived from dæn (because)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "tærmøn",
   "english": "term",
   "pos": "Noun",
   "category": "General Nouns",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøkæl",
   "english": "official",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "str- cluster; -æl adjective suffix",
-  "example": "Gə rækøntøn de strøvøkæl.",
-  "example_en": "The account is official."
+  "examples": [
+   {
+    "sh": "Gə rækøntøn de strøvøkæl.",
+    "en": "The account is official."
+   }
+  ]
  },
  {
   "word": "nøvæl",
   "english": "current",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from nøv (now)",
-  "example": "Gə nøvæl jærøn.",
-  "example_en": "The current year."
+  "examples": [
+   {
+    "sh": "Gə nøvæl jærøn.",
+    "en": "The current year."
+   }
+  ]
  },
  {
   "word": "førstøl",
   "english": "first",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə førstøl pørsøn.",
-  "example_en": "The first person."
+  "examples": [
+   {
+    "sh": "Gə førstøl pørsøn.",
+    "en": "The first person."
+   }
+  ]
  },
  {
   "word": "lætøl",
   "english": "last",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "",
-  "example": "Gə lætøl mønøn.",
-  "example_en": "The last month."
+  "examples": [
+   {
+    "sh": "Gə lætøl mønøn.",
+    "en": "The last month."
+   }
+  ]
  },
  {
   "word": "nøræl",
   "english": "local",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from nøra (near)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "frømbæl",
   "english": "foreign",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from frøm (from)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøvøkbæl",
   "english": "significant",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "str- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "stuhøl",
   "english": "major / big",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from stuh (big)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdøbæl",
   "english": "common",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "midøbæl",
   "english": "neutral",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from midøsi (center)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nøvøbæl",
   "english": "trusted",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from nøvæ (to know)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vørdømæl",
   "english": "mutual",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from vørdøn (to agree)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "strøkæmpæl",
   "english": "controversial",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from strøkæmpøn (tension)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prødægøl",
   "english": "previous",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from prødægøn (yesterday)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkbæl",
   "english": "respective",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ənstrøvøkæl",
   "english": "internal",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Compound: in + governmental",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nørdæl",
   "english": "northern",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from nørd",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "sødnæl",
   "english": "southern",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from sødn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "østæl",
   "english": "eastern",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from øst",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vøstæl",
   "english": "western",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from vøst",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "stuhøltæ",
   "english": "largest / biggest",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Superlative of stuhøl; -tæ superlative suffix",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkstætøl",
   "english": "estimated",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nøvøtæl",
   "english": "known",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from nøvæ (to know)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ørdøl",
   "english": "early",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Derived from ørdøn",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "nøvstrøvøkæl",
   "english": "modern",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Compound: now + governmental",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "førstøvøkæl",
   "english": "primary",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "Compound: first + official",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "prøvøkæl",
   "english": "former",
   "pos": "Adjective",
   "category": "Adjectives",
+  "formality": "Neutral",
   "notes": "pr- cluster",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "ves",
   "english": "this",
   "pos": "Pronoun",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Demonstrative; near speaker, singular",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vek",
   "english": "that",
   "pos": "Pronoun",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Demonstrative; far from speaker, singular; distinct from tæ (conjunction)",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vesew",
   "english": "these",
   "pos": "Pronoun",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Plural of ves via regular -ew rule",
-  "example": "",
-  "example_en": ""
+  "examples": []
  },
  {
   "word": "vekew",
   "english": "those",
   "pos": "Pronoun",
   "category": "Function Words",
+  "formality": "Neutral",
   "notes": "Plural of vek via regular -ew rule",
-  "example": "",
-  "example_en": ""
+  "examples": []
  }
 ]
