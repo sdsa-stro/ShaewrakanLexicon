@@ -8,8 +8,8 @@
   "notes": "Nom; acc: dam; gen: mør",
   "examples": [
    {
-    "sh": "Da de pørsøn.",
-    "en": "I am a person."
+    "sh": "*Da* ag shæwrakin.",
+    "en": "I am Shæwrakan."
    }
   ]
  },
@@ -22,8 +22,8 @@
   "notes": "Nom; acc: dim; gen: dør",
   "examples": [
    {
-    "sh": "Di dəg stuh.",
-    "en": "You are big."
+    "sh": "¿Høvda *di*?",
+    "en": "How are you?"
    }
   ]
  },
@@ -34,7 +34,12 @@
   "category": "Pronouns",
   "formality": "Formal",
   "notes": "Nom; acc: diam; gen: døra",
-  "examples": []
+  "examples": [
+   {
+    "sh": "¿Høvda *dia*?",
+    "en": "How are you? (formal)"
+   }
+  ]
  },
  {
   "word": "ŋe",
@@ -45,8 +50,8 @@
   "notes": "Nom; acc: ŋem; gen: ŋer",
   "examples": [
    {
-    "sh": "Ŋe gønæ æt gə strøvøksi.",
-    "en": "He goes to the city."
+    "sh": "*Ŋe* de gə strøvændøn.",
+    "en": "He is the leader."
    }
   ]
  },
@@ -59,8 +64,8 @@
   "notes": "Nom; acc: ŋim; gen: ŋir",
   "examples": [
    {
-    "sh": "Ŋi nøvæ gə rakin.",
-    "en": "She knows the language."
+    "sh": "*Ŋi* ag køngøvøn.",
+    "en": "She is a fisher."
    }
   ]
  },
@@ -71,7 +76,12 @@
   "category": "Pronouns",
   "formality": "Neutral",
   "notes": "Nom; acc: ŋøm; gen: ŋør",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Ŋø* de shæwrakin.",
+    "en": "They are Shæwrakan."
+   }
+  ]
  },
  {
   "word": "ve",
@@ -80,7 +90,12 @@
   "category": "Pronouns",
   "formality": "Neutral",
   "notes": "Nom; acc: vem; gen: ver",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Ve* de a prøgnsi.",
+    "en": "It is a protogen."
+   }
+  ]
  },
  {
   "word": "døs",
@@ -91,8 +106,8 @@
   "notes": "Nom; acc: døsm; gen: døsr",
   "examples": [
    {
-    "sh": "Døs agøs trædøn.",
-    "en": "We are merchants."
+    "sh": "*Døs* agøs shæwrakin.",
+    "en": "We are Shæwrakan."
    }
   ]
  },
@@ -103,7 +118,12 @@
   "category": "Pronouns",
   "formality": "Neutral",
   "notes": "Nom; acc: diwm; gen: diwr",
-  "examples": []
+  "examples": [
+   {
+    "sh": "¿*Diw* nudiw shæwrakin?",
+    "en": "Are you all Shæwrakan?"
+   }
+  ]
  },
  {
   "word": "ŋæw",
@@ -112,7 +132,12 @@
   "category": "Pronouns",
   "formality": "Neutral",
   "notes": "Nom; acc: ŋæwm; gen: ŋæwr",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Ŋæw* nuŋ trædønew.",
+    "en": "They are merchants."
+   }
+  ]
  },
  {
   "word": "mør",
@@ -123,8 +148,8 @@
   "notes": "Genitive of da",
   "examples": [
    {
-    "sh": "Mør døgí de fuh.",
-    "en": "My dog is small."
+    "sh": "*Mør* rakin de shæwrakin.",
+    "en": "My language is Shæwrakan."
    }
   ]
  },
@@ -135,7 +160,12 @@
   "category": "Pronouns",
   "formality": "Informal",
   "notes": "Genitive of di",
-  "examples": []
+  "examples": [
+   {
+    "sh": "¿*Dør* nømøn de vek?",
+    "en": "Is that your name?"
+   }
+  ]
  },
  {
   "word": "døra",
@@ -144,7 +174,12 @@
   "category": "Pronouns",
   "formality": "Formal",
   "notes": "Genitive of dia",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Døra* strøvøkagørn de stuhøl.",
+    "en": "Your agency is significant."
+   }
+  ]
  },
  {
   "word": "gə",
@@ -155,8 +190,8 @@
   "notes": "Definite article",
   "examples": [
    {
-    "sh": "Gə dənsh de cha.",
-    "en": "The ocean is cold."
+    "sh": "*Gə* sha de stuh.",
+    "en": "The shark is big."
    }
   ]
  },
@@ -169,8 +204,8 @@
   "notes": "Indefinite article",
   "examples": [
    {
-    "sh": "Da hævæ a sha.",
-    "en": "I have a shark."
+    "sh": "Da søvæda a sha.",
+    "en": "I see a shark."
    }
   ]
  },
@@ -183,8 +218,8 @@
   "notes": "Also genitive suffix -lu; omitted in company/agency names",
   "examples": [
    {
-    "sh": "Gə rakin lu shæwaka.",
-    "en": "The language of Shæwaka."
+    "sh": "Gə rakin *lu* shæwaka de shæwrakin.",
+    "en": "The language of Shæwaka is Shæwrakan."
    }
   ]
  },
@@ -197,8 +232,8 @@
   "notes": "Contraction of da + ag",
   "examples": [
    {
-    "sh": "Da'g ən gə strøvøksi.",
-    "en": "I'm in the city."
+    "sh": "*Da'g* shæwrakin.",
+    "en": "I'm Shæwrakan."
    }
   ]
  },
@@ -211,8 +246,8 @@
   "notes": "Negation; before verb (informal), after verb (formal)",
   "examples": [
    {
-    "sh": "Da ni nøvæ.",
-    "en": "I do not know."
+    "sh": "Da *ni* nøvæda.",
+    "en": "I don't know."
    }
   ]
  },
@@ -225,8 +260,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Mi, da wølæ ve.",
-    "en": "Yes, I want it."
+    "sh": "*Mi*, da ag shæwrakin.",
+    "en": "Yes, I am Shæwrakan."
    }
   ]
  },
@@ -237,7 +272,12 @@
   "category": "Function Words",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Kuna*, da gønæda.",
+    "en": "Okay, I will go."
+   }
+  ]
  },
  {
   "word": "ag",
@@ -248,8 +288,8 @@
   "notes": "1st singular present",
   "examples": [
    {
-    "sh": "Da ag trædøn.",
-    "en": "I am a merchant."
+    "sh": "Da *ag* shæwrakin.",
+    "en": "I am Shæwrakan."
    }
   ]
  },
@@ -260,7 +300,12 @@
   "category": "To Be (irregular)",
   "formality": "Neutral",
   "notes": "2nd singular present",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Di *dəg* gə strøvændøn.",
+    "en": "You are the leader."
+   }
+  ]
  },
  {
   "word": "de",
@@ -271,7 +316,7 @@
   "notes": "3rd singular present",
   "examples": [
    {
-    "sh": "Gə sha de stuh.",
+    "sh": "Gə sha *de* stuh.",
     "en": "The shark is big."
    }
   ]
@@ -283,7 +328,12 @@
   "category": "To Be (irregular)",
   "formality": "Neutral",
   "notes": "1st plural present",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Døs *agøs* shæwrakin.",
+    "en": "We are Shæwrakan."
+   }
+  ]
  },
  {
   "word": "nudiw",
@@ -292,7 +342,12 @@
   "category": "To Be (irregular)",
   "formality": "Neutral",
   "notes": "2nd plural present",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Diw *nudiw* gə trædønew.",
+    "en": "You all are the merchants."
+   }
+  ]
  },
  {
   "word": "nuŋ",
@@ -301,7 +356,12 @@
   "category": "To Be (irregular)",
   "formality": "Neutral",
   "notes": "3rd plural present",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Shæw *nuŋ* nøvøtæl.",
+    "en": "Sharks are known."
+   }
+  ]
  },
  {
   "word": "æfi",
@@ -330,8 +390,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da hævæ a døgí.",
-    "en": "I have a dog."
+    "sh": "Da *hævæ*da a prøgnsi.",
+    "en": "I have a protogen."
    }
   ]
  },
@@ -344,8 +404,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da dønæ mør wørk.",
-    "en": "I do my work."
+    "sh": "¿Høvda di *dønæ*di ves?",
+    "en": "How do you do this?"
    }
   ]
  },
@@ -358,8 +418,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Døs gønæ æt gə dənsh.",
-    "en": "We go to the ocean."
+    "sh": "Gə trædønew *gønæ*ŋæwæk tø gə ønsæ.",
+    "en": "The merchants went to the island."
    }
   ]
  },
@@ -372,8 +432,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Ŋe kømæ frøm gə ønsæ.",
-    "en": "He comes from the island."
+    "sh": "Gə vøksí *kømæ*ŋaæk frøm gə nørd.",
+    "en": "The fox came from the north."
    }
   ]
  },
@@ -386,8 +446,8 @@
   "notes": "Distinct from nøvdørn (to request)",
   "examples": [
    {
-    "sh": "Da nøvæ gə rakin.",
-    "en": "I know the language."
+    "sh": "Da ni *nøvæ*da gə vægøn.",
+    "en": "I don't know the way."
    }
   ]
  },
@@ -400,8 +460,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Ŋi wølæ a husky.",
-    "en": "She wants a husky."
+    "sh": "Da *wølæ*da gønæ tø gə strøvøksi.",
+    "en": "I want to go to the city."
    }
   ]
  },
@@ -414,8 +474,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da søvæ gə shæw.",
-    "en": "I see the sharks."
+    "sh": "Da *søvæ*da gə ønsæ.",
+    "en": "I see the island."
    }
   ]
  },
@@ -426,7 +486,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Ŋe *gævæ*ŋaæk gə trædøktøn tø dam.",
+    "en": "He gave the goods to me."
+   }
+  ]
  },
  {
   "word": "sætæ",
@@ -435,7 +500,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "Distinct from sætæk (to put)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw *sætæ*ŋæwæk øv gə ønsæ.",
+    "en": "The sharks settled on the island."
+   }
+  ]
  },
  {
   "word": "drøvæ",
@@ -444,7 +514,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøksi *drøvæ*ŋaæk nækøs 1050.",
+    "en": "The city developed after 1050."
+   }
+  ]
  },
  {
   "word": "grøvæ",
@@ -453,7 +528,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøvøkpørsønew *grøvæ*ŋæwæk stuhøl.",
+    "en": "The population grew significantly."
+   }
+  ]
  },
  {
   "word": "kømønæ",
@@ -462,7 +542,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "Extension of kømæ",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə vøksiew *kømønæ*ŋæwæk øv gə ønsæ.",
+    "en": "The foxes arrived on the island."
+   }
+  ]
  },
  {
   "word": "vørdæ",
@@ -471,7 +556,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi *vørdæ*ŋaæk gə stuhøltæ.",
+    "en": "The market became the largest."
+   }
+  ]
  },
  {
   "word": "møvæ",
@@ -480,7 +570,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdøn *møvæ*ŋaæk ənntø gə strøvøksi.",
+    "en": "The soldier moved into the city."
+   }
+  ]
  },
  {
   "word": "lætæ",
@@ -489,7 +584,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøkagørn *lætæ*ŋaæk gə trædæ.",
+    "en": "The agency allowed the trade."
+   }
+  ]
  },
  {
   "word": "trædæ",
@@ -498,7 +598,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew *trædæ*ŋæwæk møn gə vøksiew.",
+    "en": "The merchants traded with the foxes."
+   }
+  ]
  },
  {
   "word": "køpæ",
@@ -509,8 +614,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Døs køpæ gə trædsi.",
-    "en": "We buy the trade goods."
+    "sh": "Da *køpæ*da gə trædøktøn.",
+    "en": "I bought the goods."
    }
   ]
  },
@@ -523,8 +628,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Ŋe sælæ a døgí.",
-    "en": "He sells a dog."
+    "sh": "Ŋe *sælæ*ŋaæk gə frøktøn.",
+    "en": "He sold the fruit."
    }
   ]
  },
@@ -535,7 +640,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə fæmøl *bødæ*ŋaæk gə spørsøn.",
+    "en": "The family offered the spice."
+   }
+  ]
  },
  {
   "word": "løsæ",
@@ -544,7 +654,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə kæmpøn *løsæ*ŋaæk.",
+    "en": "The enemy lost."
+   }
+  ]
  },
  {
   "word": "wønæ",
@@ -553,7 +668,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw *wønæ*ŋæwæk.",
+    "en": "The sharks won."
+   }
+  ]
  },
  {
   "word": "særvæ",
@@ -562,7 +682,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Ŋi *særvæ*ŋaæk gə trædøsi.",
+    "en": "She served the market."
+   }
+  ]
  },
  {
   "word": "kælæ",
@@ -571,7 +696,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "Distinct from nømæ (to name)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *kælæ*da gə strøvændøn.",
+    "en": "I called out to the leader."
+   }
+  ]
  },
  {
   "word": "løsænæ",
@@ -580,7 +710,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøkæmpøn *løsænæ*ŋaæk nækøs gə vørdøstrøn.",
+    "en": "The tension eased after the agreement."
+   }
+  ]
  },
  {
   "word": "drøvønæ",
@@ -589,7 +724,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi *drøvønæ*ŋaæk stuhøl.",
+    "en": "The market improved significantly."
+   }
+  ]
  },
  {
   "word": "nødæ",
@@ -598,7 +738,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *nødæ*da gə rakin.",
+    "en": "I need the language."
+   }
+  ]
  },
  {
   "word": "dønkæ",
@@ -607,7 +752,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *dønkæ*da øbæ gə vørdøstrøn.",
+    "en": "I think about the agreement."
+   }
+  ]
  },
  {
   "word": "wørkæ",
@@ -618,8 +768,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da wørkæ æt gə kømpæni.",
-    "en": "I work at the company."
+    "sh": "Gə strøværdøn *wørkæ*ŋaæk fər gə prøspæk.",
+    "en": "The soldier worked for the republic."
    }
   ]
  },
@@ -632,8 +782,8 @@
   "notes": "Distinct from lævørn (to leave formally)",
   "examples": [
    {
-    "sh": "Døs lævæ ən shæwaka.",
-    "en": "We live in Shæwaka."
+    "sh": "Gə trædønew *lævæ*ŋæwæk øv gə ønsæ.",
+    "en": "The merchants lived on the island."
    }
   ]
  },
@@ -644,7 +794,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *høldæ*da gə nøstvna.",
+    "en": "I keep the forgiveness."
+   }
+  ]
  },
  {
   "word": "nømæ",
@@ -653,7 +808,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "Distinct from kælæ (to call out)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Ŋe *nømæ*ŋaæk gə strøvøksi Sønshuənia.",
+    "en": "He named the city Sønshuənia."
+   }
+  ]
  },
  {
   "word": "møtæ",
@@ -662,7 +822,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew *møtæ*ŋæwæk ən gə høsøn.",
+    "en": "The merchants met in the hall."
+   }
+  ]
  },
  {
   "word": "spræk",
@@ -671,7 +836,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "Irregular -æk ending; speech act",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *spræk* shæwrakin.",
+    "en": "I speak Shæwrakan."
+   }
+  ]
  },
  {
   "word": "møsafi",
@@ -680,7 +850,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "Derived from møsa",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *møsafi*da, da'g Hailey.",
+    "en": "I introduce myself, I am Hailey."
+   }
+  ]
  },
  {
   "word": "mænafi",
@@ -689,7 +864,12 @@
   "category": "Verbs — Everyday (-æ)",
   "formality": "Neutral",
   "notes": "Derived from mæna",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *mænafi*da tø dia.",
+    "en": "I apologize to you."
+   }
+  ]
  },
  {
   "word": "nøvdørn",
@@ -700,8 +880,8 @@
   "notes": "Root nøvd-; used in formal request phrase",
   "examples": [
    {
-    "sh": "Da nøvdørn føla gə rækøntøn.",
-    "en": "I formally request the account, please."
+    "sh": "Da føla *nøvdørn* dia.",
+    "en": "I please request of you."
    }
   ]
  },
@@ -714,8 +894,8 @@
   "notes": "str- Slavic cluster",
   "examples": [
    {
-    "sh": "Ŋæw strøbørn a prøspæksi.",
-    "en": "They establish a country."
+    "sh": "Gə fæmøl *strøbørn* gə trædøsi.",
+    "en": "The family established the market."
    }
   ]
  },
@@ -726,7 +906,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvørnstrøn *prøstørn* gə strøværdøn ən gə strøpøkt.",
+    "en": "The government placed the soldier at the base."
+   }
+  ]
  },
  {
   "word": "prøvørn",
@@ -737,8 +922,8 @@
   "notes": "pr- Slavic cluster",
   "examples": [
    {
-    "sh": "Gə strøvøkpørsøn prøvørn gə pølænsíne.",
-    "en": "The citizen rules the province."
+    "sh": "Gə shæw *prøvørn* gə prøspæk.",
+    "en": "The sharks rule the republic."
    }
   ]
  },
@@ -749,7 +934,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt *strøvørn* gə prøspæk.",
+    "en": "The president governs the republic."
+   }
+  ]
  },
  {
   "word": "køntrølørn",
@@ -758,7 +948,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdæk *køntrølørn* gə ønsæ.",
+    "en": "The military controls the island."
+   }
+  ]
  },
  {
   "word": "prøkøpørn",
@@ -767,7 +962,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdstrøn *prøkøpørn* gə strøvøksi.",
+    "en": "The army occupied the city."
+   }
+  ]
  },
  {
   "word": "dæklærørn",
@@ -776,7 +976,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt *dæklærørn* gə strøfrøvæk.",
+    "en": "The president declared independence."
+   }
+  ]
  },
  {
   "word": "strøknørn",
@@ -785,7 +990,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt *strøknørn* gə prøvørdørn.",
+    "en": "The president signed the executive order."
+   }
+  ]
  },
  {
   "word": "prømændørn",
@@ -794,7 +1004,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøkhøs *prømændørn* gə strøvøkstrøn.",
+    "en": "The legislative house amended the constitution."
+   }
+  ]
  },
  {
   "word": "strøpønørn",
@@ -803,7 +1018,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt *strøpønørn* gə prøvøktøn.",
+    "en": "The president appointed the warden."
+   }
+  ]
  },
  {
   "word": "rønørn",
@@ -812,7 +1032,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøkhøs *rønørn* gə prøpøzørn.",
+    "en": "The legislative house rejected the proposal."
+   }
+  ]
  },
  {
   "word": "strøbændørn",
@@ -821,7 +1046,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvæk *strøbændørn* gə trædæ møn frømpørsønew.",
+    "en": "The law forbids trade with foreigners."
+   }
+  ]
  },
  {
   "word": "prøhævørn",
@@ -830,7 +1060,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- + hæv (have) compound",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøvøktøn *prøhævørn* gə køntrøl.",
+    "en": "The warden maintained control."
+   }
+  ]
  },
  {
   "word": "prøvændørn",
@@ -839,7 +1074,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdæk *prøvændørn* gə inværdæk.",
+    "en": "The military prevented the invasion."
+   }
+  ]
  },
  {
   "word": "strøkøpørn",
@@ -848,7 +1088,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøspæk *strøkøpørn* gə køngøn.",
+    "en": "The republic exported the fish."
+   }
+  ]
  },
  {
   "word": "prøvøkørn",
@@ -857,7 +1102,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi *prøvøkørn* gə spørsøn.",
+    "en": "The market imported the spice."
+   }
+  ]
  },
  {
   "word": "strøtækørn",
@@ -866,7 +1116,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvørnstrøn *strøtækørn* gə trædøktøn.",
+    "en": "The government taxed the goods."
+   }
+  ]
  },
  {
   "word": "prøgøvørn",
@@ -875,7 +1130,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə fæmøl *prøgøvørn* møn gə strøvørnstrøn.",
+    "en": "The family negotiated with the government."
+   }
+  ]
  },
  {
   "word": "rəzøltørn",
@@ -884,7 +1144,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøkæmpøn *rəzøltørn* ən gə kæmpæk.",
+    "en": "The tension resulted in the fight."
+   }
+  ]
  },
  {
   "word": "prøsætørn",
@@ -893,7 +1158,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvørnstrøn *prøsætørn* gə strøvøksi ag gə strøpøvæk.",
+    "en": "The government positioned the city as the capital."
+   }
+  ]
  },
  {
   "word": "prøpøzørn",
@@ -902,7 +1172,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøn *prøpøzørn* a nøvæl strøvæk.",
+    "en": "The merchant proposed a new law."
+   }
+  ]
  },
  {
   "word": "vørdøn",
@@ -911,7 +1186,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew *vørdøn* møn gə strøvørnstrøn.",
+    "en": "The merchants agreed with the government."
+   }
+  ]
  },
  {
   "word": "kønstrøvørn",
@@ -920,7 +1200,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvørnstrøn *kønstrøvørn* gə prøgøvørn.",
+    "en": "The government conducted the negotiation."
+   }
+  ]
  },
  {
   "word": "vørdønørn",
@@ -929,7 +1214,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə pølænsíne *vørdønørn* gə prøspæk.",
+    "en": "The province joined the republic."
+   }
+  ]
  },
  {
   "word": "strøvælun",
@@ -938,7 +1228,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "Compound: strø + vælun (since)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sætønsiw *strøvælun*ŋæwæk tø rønda 900 C.E.",
+    "en": "The settlements date back to around 900 C.E."
+   }
+  ]
  },
  {
   "word": "grøvørn",
@@ -947,7 +1242,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "Echoes grøvæ (grow)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøksi *grøvørn* nækøs gə vørdøstrøn.",
+    "en": "The city expanded after the agreement."
+   }
+  ]
  },
  {
   "word": "prøstrøvørn",
@@ -956,7 +1256,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøktørn *prøstrøvørn* gə trædøn.",
+    "en": "The court prosecuted the merchant."
+   }
+  ]
  },
  {
   "word": "strøkælørn",
@@ -965,7 +1270,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew *strøkælørn* gə nøvæl strøvøktrøn.",
+    "en": "The merchants demanded a new contract."
+   }
+  ]
  },
  {
   "word": "høldørn",
@@ -974,7 +1284,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "Governmental form of høldæ",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə fæmøl *høldørn* gə prøvøktstrø øv gə trædøsi.",
+    "en": "The family held authority over the market."
+   }
+  ]
  },
  {
   "word": "lævørn",
@@ -983,7 +1298,12 @@
   "category": "Verbs — Governmental (-ørn)",
   "formality": "Neutral",
   "notes": "Governmental form of lævæ",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdøn *lævørn* gə strøpøkt.",
+    "en": "The soldier formally left the base."
+   }
+  ]
  },
  {
   "word": "brøkæk",
@@ -994,8 +1314,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da brøkæk gə køng.",
-    "en": "I use the water."
+    "sh": "Gə trædønew *brøkæk* gə strøvøksi fər gə trædæ.",
+    "en": "The merchants use the city for trade."
    }
   ]
  },
@@ -1008,8 +1328,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Ŋe prøkæk gə sha.",
-    "en": "He pushes the shark."
+    "sh": "Gə strøvørnstrøn *prøkæk* gə vøksiew ənntø gə lændøsi.",
+    "en": "The government pushed the foxes into the plain."
    }
   ]
  },
@@ -1022,8 +1342,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Ŋæw inværdæk gə ønsæ.",
-    "en": "They invade the island."
+    "sh": "Gə strøværdstrøn *inværdæk* gə ønsæ ən 1425.",
+    "en": "The army invaded the island in 1425."
    }
   ]
  },
@@ -1036,8 +1356,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Døs kæmpæk øv gə køngløn.",
-    "en": "We fight on the coast."
+    "sh": "Gə shæw *kæmpæk* fər gə ønsæ.",
+    "en": "The sharks fought for the island."
    }
   ]
  },
@@ -1048,7 +1368,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøkpørsøn *røvøltæk* frøm gə køntrøl.",
+    "en": "The citizens revolted against control."
+   }
+  ]
  },
  {
   "word": "strønsæk",
@@ -1057,7 +1382,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdæk *strønsæk* a strøvændæk.",
+    "en": "The military launched an attack."
+   }
+  ]
  },
  {
   "word": "tækæk",
@@ -1066,7 +1396,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw *tækæk* gə køntrøl lu gə ønsæ.",
+    "en": "The sharks took control of the island."
+   }
+  ]
  },
  {
   "word": "prøvøkæk",
@@ -1075,7 +1410,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdæk *prøvøkæk* gə inværdæk.",
+    "en": "The military thwarted the invasion."
+   }
+  ]
  },
  {
   "word": "sætæk",
@@ -1084,7 +1424,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "Distinct from sætæ (to settle)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *sætæk* gə trædøktøn øv gə trædøsi.",
+    "en": "I put the goods at the market."
+   }
+  ]
  },
  {
   "word": "strønæk",
@@ -1093,7 +1438,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt *strønæk* gə prøvørdørn tø gə strøvøkhøs.",
+    "en": "The president sent the order to the legislative house."
+   }
+  ]
  },
  {
   "word": "brøŋæk",
@@ -1102,7 +1452,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew *brøŋæk* gə spørsøn frøm gə vøst.",
+    "en": "The merchants brought spices from the west."
+   }
+  ]
  },
  {
   "word": "əntrækæk",
@@ -1111,7 +1466,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdstrøn *əntrækæk* gə strøvøksi.",
+    "en": "The army entered the city."
+   }
+  ]
  },
  {
   "word": "røvørnæk",
@@ -1120,7 +1480,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə vøksiew *røvørnæk* tø gə lændøn.",
+    "en": "The foxes returned to the land."
+   }
+  ]
  },
  {
   "word": "strøvændæk",
@@ -1129,7 +1494,12 @@
   "category": "Verbs — Physical (-æk)",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøvøktøn *strøvændæk* gə trædønew.",
+    "en": "The warden led the merchants."
+   }
+  ]
  },
  {
   "word": "sha",
@@ -1158,8 +1528,8 @@
   "notes": "Plural of sha; SACRED WORD",
   "examples": [
    {
-    "sh": "Gə shæw de sakredən.",
-    "en": "The sharks are sacred."
+    "sh": "*Shæw* nuŋ nøvøtæl ən gə prøspæk.",
+    "en": "Sharks are known in the republic."
    }
   ]
  },
@@ -1172,8 +1542,8 @@
   "notes": "-í species marker",
   "examples": [
    {
-    "sh": "Mør døgí de fuh.",
-    "en": "My dog is small."
+    "sh": "Gə *døgí* de fuhøl.",
+    "en": "The dog is small."
    }
   ]
  },
@@ -1186,8 +1556,8 @@
   "notes": "-í species marker",
   "examples": [
    {
-    "sh": "Da hævæ a unakí.",
-    "en": "I have a husky."
+    "sh": "Da hævæda a unakíon.",
+    "en": "I have a male husky."
    }
   ]
  },
@@ -1198,7 +1568,12 @@
   "category": "Animals & Species",
   "formality": "Neutral",
   "notes": "-í species marker",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *pølædogí* de pølæik.",
+    "en": "The skulldog is cute."
+   }
+  ]
  },
  {
   "word": "prøgnsi",
@@ -1207,7 +1582,12 @@
   "category": "Animals & Species",
   "formality": "Neutral",
   "notes": "Grammatically ve until autonomy granted",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøgnsi* vørdæŋaæk nøvæl nækøs gə dægøntímøn lu strøfrøvæk.",
+    "en": "The protogen became well after the date of autonomy."
+   }
+  ]
  },
  {
   "word": "prøgnsiew",
@@ -1216,7 +1596,12 @@
   "category": "Animals & Species",
   "formality": "Neutral",
   "notes": "Plural of prøgnsi",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøgnsiew* nuŋ strøvøkpørsønew søf ŋæw hævæŋæwæk strøfrøvæk.",
+    "en": "The protogens are citizens if they have autonomy."
+   }
+  ]
  },
  {
   "word": "køng",
@@ -1227,7 +1612,7 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə køng de cha.",
+    "sh": "Gə *køng* de cha.",
     "en": "The water is cold."
    }
   ]
@@ -1241,8 +1626,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə ji de ŋak.",
-    "en": "The sand is hot."
+    "sh": "Gə ønsæ hævæda stuhøl *ji*.",
+    "en": "The island has a lot of sand."
    }
   ]
  },
@@ -1255,8 +1640,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə dənsh de stuh.",
-    "en": "The ocean is big."
+    "sh": "Gə Stuhŋacha *dənsh* de stuh.",
+    "en": "The Stuhŋacha Ocean is big."
    }
   ]
  },
@@ -1269,8 +1654,8 @@
   "notes": "Compound: fah + dənsh",
   "examples": [
    {
-    "sh": "Døs gønæ æt gə fahdænsh.",
-    "en": "We go to the sea."
+    "sh": "Gə sha æfiŋa ən gə *fahdənsh*.",
+    "en": "The shark attacks in the sea."
    }
   ]
  },
@@ -1281,7 +1666,12 @@
   "category": "Nature & Geography",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw nuŋ nøvøtæl øv gə *sh'nøí*.",
+    "en": "Sharks are known across the world."
+   }
+  ]
  },
  {
   "word": "stuh",
@@ -1292,8 +1682,8 @@
   "notes": "Gender agree: stuhon/stuhen/stuhan/stuhæsh",
   "examples": [
    {
-    "sh": "Gə sha de stuh.",
-    "en": "The shark is big."
+    "sh": "Gə dənsh de *stuh*.",
+    "en": "The ocean is big."
    }
   ]
  },
@@ -1306,8 +1696,8 @@
   "notes": "Gender agree: fuhon/fuhen/fuhan/fuhæsh",
   "examples": [
    {
-    "sh": "Mør døgí de fuh.",
-    "en": "My dog is small."
+    "sh": "Gə døgí de *fuh*.",
+    "en": "The dog is small."
    }
   ]
  },
@@ -1320,8 +1710,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə ji de ŋak.",
-    "en": "The sand is hot."
+    "sh": "Gə lændøn de *ŋak*.",
+    "en": "The land is hot."
    }
   ]
  },
@@ -1334,7 +1724,7 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə køng de cha.",
+    "sh": "Gə køng de *cha*.",
     "en": "The water is cold."
    }
   ]
@@ -1346,7 +1736,12 @@
   "category": "Descriptors",
   "formality": "Neutral",
   "notes": "Compound: ŋak + cha",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Stuhŋacha dənsh de *ŋacha*.",
+    "en": "The Stuhŋacha Ocean is warm."
+   }
+  ]
  },
  {
   "word": "pølæik",
@@ -1355,7 +1750,12 @@
   "category": "Descriptors",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə unakí de *pølæik*.",
+    "en": "The husky is cute."
+   }
+  ]
  },
  {
   "word": "kæl",
@@ -1366,8 +1766,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə sha de kæl.",
-    "en": "The shark is red."
+    "sh": "Gə *kæl* vøksí de nøvøtæl.",
+    "en": "The red fox is well known."
    }
   ]
  },
@@ -1378,7 +1778,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da søvæda a *ørar'al* shuíf.",
+    "en": "I see an orange fruit."
+   }
+  ]
  },
  {
   "word": "ŋujik",
@@ -1387,7 +1792,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *ŋujik* frøktøn de nøvæl.",
+    "en": "The yellow fruit is good."
+   }
+  ]
  },
  {
   "word": "gæof",
@@ -1398,8 +1808,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə ønsæ de gæof.",
-    "en": "The island is green."
+    "sh": "Gə drøvøsi de *gæof*.",
+    "en": "The forest is green."
    }
   ]
  },
@@ -1410,7 +1820,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə dənsh de *bløf*.",
+    "en": "The ocean is blue."
+   }
+  ]
  },
  {
   "word": "pərem",
@@ -1419,7 +1834,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da hævæda a *pərem* drækí.",
+    "en": "I have a purple dragon."
+   }
+  ]
  },
  {
   "word": "koli",
@@ -1428,7 +1848,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *koli* vøksí de pølæik.",
+    "en": "The pink fox is cute."
+   }
+  ]
  },
  {
   "word": "miørca",
@@ -1437,7 +1862,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə bærí de *miørca*.",
+    "en": "The bear is brown."
+   }
+  ]
  },
  {
   "word": "ponel",
@@ -1446,7 +1876,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə snøløpærdí de *ponel*.",
+    "en": "The snow leopard is white."
+   }
+  ]
  },
  {
   "word": "olnəl",
@@ -1455,7 +1890,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə ælkí de *olnəl*.",
+    "en": "The elk is gray."
+   }
+  ]
  },
  {
   "word": "ølæf",
@@ -1464,7 +1904,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sha de *ølæf*.",
+    "en": "The shark is black."
+   }
+  ]
  },
  {
   "word": "shuíf",
@@ -1473,7 +1918,12 @@
   "category": "Colours",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da køpæda a *shuíf*.",
+    "en": "I bought an orange."
+   }
+  ]
  },
  {
   "word": "møs",
@@ -1484,8 +1934,8 @@
   "notes": "Informal greeting",
   "examples": [
    {
-    "sh": "Møs! Di dəg kuna?",
-    "en": "Hi! Are you okay?"
+    "sh": "*Møs*! ¿Høvda di?",
+    "en": "Hi! How are you?"
    }
   ]
  },
@@ -1516,8 +1966,8 @@
   "notes": "Informal farewell",
   "examples": [
    {
-    "sh": "Vøs! Da gønæ nøv.",
-    "en": "Bye! I go now."
+    "sh": "*Vøs*! Da gønæda nøv.",
+    "en": "Bye! I'm going now."
    }
   ]
  },
@@ -1530,8 +1980,8 @@
   "notes": "Formal farewell",
   "examples": [
    {
-    "sh": "Føndsa, mør frønd.",
-    "en": "Farewell, my friend."
+    "sh": "*Føndsa*. Da søvæda dia nækødægøn.",
+    "en": "Farewell. I will see you tomorrow."
    }
   ]
  },
@@ -1542,7 +1992,12 @@
   "category": "Greetings & Social",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *fænsí*da dia fər gə trædøktøn.",
+    "en": "I thank you for the goods."
+   }
+  ]
  },
  {
   "word": "îm",
@@ -1551,7 +2006,12 @@
   "category": "Greetings & Social",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da *îm* gə shæwrakin.",
+    "en": "I love the Shæwrakan language."
+   }
+  ]
  },
  {
   "word": "mæna",
@@ -1562,8 +2022,8 @@
   "notes": "Casual formal; carries cultural weight",
   "examples": [
    {
-    "sh": "Mæna, da ni nøvæ.",
-    "en": "My apologies, I did not know."
+    "sh": "*Mæna*. Da ni nøvæda gə vægøn.",
+    "en": "My apologies. I didn't know the way."
    }
   ]
  },
@@ -1576,8 +2036,8 @@
   "notes": "Informal apology",
   "examples": [
    {
-    "sh": "Øvna! Da ni søvæ di.",
-    "en": "Sorry! I didn't see you."
+    "sh": "*Øvna*! Da ni søvæda dia æt gə trædøsi.",
+    "en": "Sorry! I didn't see you at the market."
    }
   ]
  },
@@ -1590,8 +2050,8 @@
   "notes": "Casual formal; placed before request",
   "examples": [
    {
-    "sh": "Føla, gævæ dam gə køng.",
-    "en": "Please, give me the water."
+    "sh": "*Føla*, da nødæda gə rakin lu shæwrakin.",
+    "en": "Please, I need the Shæwrakan language."
    }
   ]
  },
@@ -1602,7 +2062,12 @@
   "category": "Apologies & Requests",
   "formality": "Formal",
   "notes": "Used in very formal apology phrase",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da nøvdørn mør *nøstvna* dia.",
+    "en": "I beg for your forgiveness."
+   }
+  ]
  },
  {
   "word": "øn",
@@ -1613,8 +2078,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da øn di gønæ.",
-    "en": "I and you go."
+    "sh": "Gə shæw *øn* gə vøksiew trædæŋæwæk.",
+    "en": "The sharks and the foxes traded."
    }
   ]
  },
@@ -1627,8 +2092,8 @@
   "notes": "Distinct from ve (it pronoun)",
   "examples": [
    {
-    "sh": "Køpæ a sha vel a døgí.",
-    "en": "Buy a shark or a dog."
+    "sh": "¿Di wølædi gønæ *vel* kømæ?",
+    "en": "Do you want to go or come?"
    }
   ]
  },
@@ -1641,8 +2106,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da wølæ ve, mæk da ni hævæ køpøn.",
-    "en": "I want it, but I have no money."
+    "sh": "Da wølæda gønæ *mæk* da ni køntrøldæda.",
+    "en": "I want to go but I can't."
    }
   ]
  },
@@ -1655,8 +2120,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da gønæ dæn da nødæ køng.",
-    "en": "I go because I need water."
+    "sh": "Gə trædønew kømønæŋæwæk *dæn* gə trædøsi de stuhøl.",
+    "en": "The merchants arrived because the market is large."
    }
   ]
  },
@@ -1667,7 +2132,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Søf* di spræk shæwrakin, da søvæda.",
+    "en": "If you speak Shæwrakan, I understand."
+   }
+  ]
  },
  {
   "word": "køn",
@@ -1676,7 +2146,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "Distinct from køng (water)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw sætæŋæwæk *køn* gə ønsæ de nøvæl.",
+    "en": "The sharks settled when the island was good."
+   }
+  ]
  },
  {
   "word": "dønø",
@@ -1685,7 +2160,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi drøvæŋaæk, *dønø* gə strøvøksi grøvørn.",
+    "en": "The market developed, so the city expanded."
+   }
+  ]
  },
  {
   "word": "fælun",
@@ -1694,7 +2174,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdstrøn prøhævørn gə køntrøl *fælun* 1720.",
+    "en": "The army maintained control until 1720."
+   }
+  ]
  },
  {
   "word": "nækøs",
@@ -1703,7 +2188,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi drøvønæŋaæk *nækøs* gə vørdøstrøn.",
+    "en": "The market improved after the agreement."
+   }
+  ]
  },
  {
   "word": "vælun",
@@ -1712,7 +2202,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "Echoes fælun",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw nuŋ nøvøtæl *vælun* gə prøspæk strøbørn.",
+    "en": "Sharks have been known since the republic was established."
+   }
+  ]
  },
  {
   "word": "ørvæ",
@@ -1721,7 +2216,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Ørvæ* gə Sharkin prøvøkpørsønew grøvæ, gə vøksiew kømønæŋæwæk.",
+    "en": "As the Sharkin population grew, the foxes arrived."
+   }
+  ]
  },
  {
   "word": "mækøn",
@@ -1730,7 +2230,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "Echoes mæk (but)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Mækøn* gə trædøsi de fuh, gə trædønew nuŋ stuhøl.",
+    "en": "Although the market is small, the merchants are numerous."
+   }
+  ]
  },
  {
   "word": "tæ",
@@ -1739,7 +2244,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da nøvæda *tæ* gə sha de stuh.",
+    "en": "I know that the shark is big."
+   }
+  ]
  },
  {
   "word": "møn",
@@ -1748,7 +2258,12 @@
   "category": "Conjunctions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw trædæŋæwæk *møn* gə vøksiew.",
+    "en": "The sharks traded with the foxes."
+   }
+  ]
  },
  {
   "word": "ən",
@@ -1759,8 +2274,8 @@
   "notes": "Distinct from øn (and)",
   "examples": [
    {
-    "sh": "Da lævæ ən gə strøvøksi.",
-    "en": "I live in the city."
+    "sh": "Gə trædønew lævæŋæwæk *ən* gə strøvøksi.",
+    "en": "The merchants lived in the city."
    }
   ]
  },
@@ -1773,8 +2288,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə sha de øv gə ji.",
-    "en": "The shark is on the sand."
+    "sh": "Gə sha sætæŋaæk *øv* gə ønsæ.",
+    "en": "The shark settled on the island."
    }
   ]
  },
@@ -1787,8 +2302,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Døs gønæ æt gə dənsh.",
-    "en": "We go to the ocean."
+    "sh": "Da møtæda gə strøvændøn *æt* gə høsøn.",
+    "en": "I met the leader at the hall."
    }
   ]
  },
@@ -1801,8 +2316,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Ŋe kømæ frøm shæwaka.",
-    "en": "He comes from Shæwaka."
+    "sh": "Gə vøksiew kømønæŋæwæk *frøm* gə nørd.",
+    "en": "The foxes came from the north."
    }
   ]
  },
@@ -1813,7 +2328,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew gønæŋæwæk *tø* gə ønsæ.",
+    "en": "The merchants went to the island."
+   }
+  ]
  },
  {
   "word": "æv",
@@ -1822,7 +2342,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdstrøn gønæŋaæk *æv* gə ønsæ.",
+    "en": "The army went off the island."
+   }
+  ]
  },
  {
   "word": "nøra",
@@ -1831,7 +2356,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sætønsi de *nøra* gə køngløn.",
+    "en": "The settlement is near the coast."
+   }
+  ]
  },
  {
   "word": "øvra",
@@ -1840,7 +2370,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə ævæní gønæŋaæk *øvra* gə strøvøksi.",
+    "en": "The bird went over the city."
+   }
+  ]
  },
  {
   "word": "rønda",
@@ -1849,7 +2384,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sætønsiw strøvælunŋæwæk tø *rønda* 900 C.E.",
+    "en": "The settlements date back to around 900 C.E."
+   }
+  ]
  },
  {
   "word": "unda",
@@ -1858,7 +2398,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøktøn de *unda* gə trædøsi.",
+    "en": "The goods are under the market."
+   }
+  ]
  },
  {
   "word": "vøntæ",
@@ -1867,7 +2412,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə høsøn de *vøntæ* gə strøvøksi øn gə trædøsi.",
+    "en": "The hall is between the city and the market."
+   }
+  ]
  },
  {
   "word": "løn",
@@ -1876,7 +2426,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew gønæŋæwæk *løn* gə køngløn.",
+    "en": "The merchants went along the coast."
+   }
+  ]
  },
  {
   "word": "ənntø",
@@ -1885,7 +2440,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "Compound: ən + tø",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdstrøn əntrækæk *ənntø* gə strøvøksi.",
+    "en": "The army entered into the city."
+   }
+  ]
  },
  {
   "word": "bæ",
@@ -1894,7 +2454,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə vørdøstrøn strøknørn *bæ* gə prøstrøvænt.",
+    "en": "The agreement was signed by the president."
+   }
+  ]
  },
  {
   "word": "fər",
@@ -1903,7 +2468,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw kæmpæk *fər* gə ønsæ.",
+    "en": "The sharks fought for the island."
+   }
+  ]
  },
  {
   "word": "trøv",
@@ -1912,7 +2482,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə dærí gønæŋaæk *trøv* gə drøvøsi.",
+    "en": "The deer went through the forest."
+   }
+  ]
  },
  {
   "word": "øbæ",
@@ -1921,7 +2496,12 @@
   "category": "Prepositions",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da dønkæda *øbæ* gə prøspæk.",
+    "en": "I think about the republic."
+   }
+  ]
  },
  {
   "word": "rakin",
@@ -1932,8 +2512,8 @@
   "notes": "-kin suffix = language of",
   "examples": [
    {
-    "sh": "Gə rakin de stuh.",
-    "en": "The language is big."
+    "sh": "Gə *rakin* lu shæwaka de shæwrakin.",
+    "en": "The language of Shæwaka is Shæwrakan."
    }
   ]
  },
@@ -1946,8 +2526,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da nøvæ shæwrakin.",
-    "en": "I know Shæwrakan."
+    "sh": "Da spræk *shæwrakin*.",
+    "en": "I speak Shæwrakan."
    }
   ]
  },
@@ -1960,8 +2540,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Døs lævæ ən shæwaka.",
-    "en": "We live in Shæwaka."
+    "sh": "Gə prøspæk Shæwraka de stuhøl.",
+    "en": "The Republic of Shæwaka is significant."
    }
   ]
  },
@@ -1974,8 +2554,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə pølænsíne de stuh.",
-    "en": "The province is big."
+    "sh": "Gə *Pølænsíne* Sønshuənia de gə strøpøvæk.",
+    "en": "Sønshuənia Province is the capital."
    }
   ]
  },
@@ -1986,7 +2566,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "Superseded by strøvøkagørn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *agənsi* de a prøvøknøn nøvæl.",
+    "en": "The agency is a significant presence. (old form)"
+   }
+  ]
  },
  {
   "word": "defənsí",
@@ -1995,7 +2580,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "Superseded by strøværdæk",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *defənsí* lu gə prøspæk de stuhøl.",
+    "en": "The defense of the republic is significant. (old form)"
+   }
+  ]
  },
  {
   "word": "æfsh'nø",
@@ -2004,7 +2594,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "Superseded by strøværdstrøn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *æfsh'nø* de stuhøl.",
+    "en": "The force is significant. (old form)"
+   }
+  ]
  },
  {
   "word": "inøestíæ",
@@ -2013,7 +2608,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "Superseded by prøvøkstrøn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *inøestíæ* de nøvæl.",
+    "en": "The investigation is current. (old form)"
+   }
+  ]
  },
  {
   "word": "dəlukø",
@@ -2022,7 +2622,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da hævæda a *dəlukø*.",
+    "en": "I have a dollar."
+   }
+  ]
  },
  {
   "word": "pəshiø",
@@ -2031,7 +2636,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *pəshiø* de ən gə strøvøksi.",
+    "en": "The casino is in the city."
+   }
+  ]
  },
  {
   "word": "prøspæk",
@@ -2040,7 +2650,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *Prøspæk* Shæwraka strøbørn ən 1550.",
+    "en": "The Republic of Shæwaka was established in 1550."
+   }
+  ]
  },
  {
   "word": "strøværn",
@@ -2049,7 +2664,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøværn* strøpøvæk de Sønshuənia.",
+    "en": "The federal capital is Sønshuənia."
+   }
+  ]
  },
  {
   "word": "strøpøvæk",
@@ -2058,7 +2678,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Sønshuənia de gə *strøpøvæk* lu gə prøspæk.",
+    "en": "Sønshuənia is the capital of the republic."
+   }
+  ]
  },
  {
   "word": "prøvøkt",
@@ -2067,7 +2692,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- Slavic cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Sønshuənia de a strøværn *prøvøkt*.",
+    "en": "Sønshuənia is a federal district."
+   }
+  ]
  },
  {
   "word": "prøstrøvænt",
@@ -2076,7 +2706,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøstrøvænt* strøknørn gə prøvørdørn.",
+    "en": "The president signed the executive order."
+   }
+  ]
  },
  {
   "word": "strøvøkstrøn",
@@ -2085,7 +2720,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- double cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvøkhøs prømændørn gə *strøvøkstrøn*.",
+    "en": "The legislative house amended the constitution."
+   }
+  ]
  },
  {
   "word": "prøvøkstrø",
@@ -2094,7 +2734,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- + str-",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvøkstrø* vørdøn møn gə prøstrøvænt.",
+    "en": "The congress agreed with the president."
+   }
+  ]
  },
  {
   "word": "strøvøkhøs",
@@ -2103,7 +2748,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- cluster + høs root",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvøkhøs* de ən gə strøpøvæk.",
+    "en": "The legislative house is in the capital."
+   }
+  ]
  },
  {
   "word": "prøvørdørn",
@@ -2112,7 +2762,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt strøknørn gə *prøvørdørn* ən 2001.",
+    "en": "The president signed the executive order in 2001."
+   }
+  ]
  },
  {
   "word": "prømændstrøn",
@@ -2121,7 +2776,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prømændstrøn* de strøkæmpæl.",
+    "en": "The amendment is controversial."
+   }
+  ]
  },
  {
   "word": "strøfrøvæk",
@@ -2130,7 +2790,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- + frø-",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøspæk dæklærørn gə *strøfrøvæk* ən 1550.",
+    "en": "The republic declared independence in 1550."
+   }
+  ]
  },
  {
   "word": "prøvøktstrø",
@@ -2139,7 +2804,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- + str-",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə fæmøl høldørn gə *prøvøktstrø* øv gə trædøsi.",
+    "en": "The family held authority over the market."
+   }
+  ]
  },
  {
   "word": "strøvæk",
@@ -2148,7 +2818,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvæk* strøbændørn gə inværdæk.",
+    "en": "The law forbids the invasion."
+   }
+  ]
  },
  {
   "word": "strøvøktørn",
@@ -2157,7 +2832,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- cluster; distinct from legislative house",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvøktørn* prøstrøvørn gə trædøn.",
+    "en": "The court prosecuted the merchant."
+   }
+  ]
  },
  {
   "word": "vørdøstrøn",
@@ -2166,7 +2846,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *vørdøstrøn* strøknørn bæ gə prøstrøvænt.",
+    "en": "The agreement was signed by the president."
+   }
+  ]
  },
  {
   "word": "prøvørdstrøn",
@@ -2175,7 +2860,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- + str- double cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvørdstrøn* de vørdømæl.",
+    "en": "The treaty is mutual."
+   }
+  ]
  },
  {
   "word": "strøpøvænt",
@@ -2184,7 +2874,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøpøvænt* kømæŋaæk frøm gə pølænsíne.",
+    "en": "The representative came from the province."
+   }
+  ]
  },
  {
   "word": "prøvønt",
@@ -2193,7 +2888,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvønt* strønæk bæ gə strøvørnstrøn.",
+    "en": "The envoy was sent by the government."
+   }
+  ]
  },
  {
   "word": "prøvøktørn",
@@ -2202,7 +2902,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə fæmøl høldørn gə *prøvøktørn*.",
+    "en": "The family held the domain."
+   }
+  ]
  },
  {
   "word": "strøvørnstrøn",
@@ -2211,7 +2916,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "Noun form of strøvørn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvørnstrøn* strøvørn gə prøspæk.",
+    "en": "The government governs the republic."
+   }
+  ]
  },
  {
   "word": "strøvænt",
@@ -2220,7 +2930,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvænt* de stuhøl.",
+    "en": "The state is significant."
+   }
+  ]
  },
  {
   "word": "strøværdæk",
@@ -2229,7 +2944,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøværdæk* køntrølørn gə vøntæsi.",
+    "en": "The military controls the border."
+   }
+  ]
  },
  {
   "word": "strøværdstrøn",
@@ -2238,7 +2958,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- double cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Shæwraka *Strøværdstrøn* inværdæk gə ønsæ ən 1719.",
+    "en": "The Shæwraka Defense Forces invaded the island in 1719."
+   }
+  ]
  },
  {
   "word": "strøpøkt",
@@ -2247,7 +2972,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdæk strøbørn a *strøpøkt* ən Ønsa.",
+    "en": "The military established a base in Ønsa."
+   }
+  ]
  },
  {
   "word": "prøvøkstrøn",
@@ -2256,7 +2986,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "pr- + str-",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə RSCDCA strønæk gə *prøvøkstrøn*.",
+    "en": "The RSCDCA sent the report."
+   }
+  ]
  },
  {
   "word": "strøkænsørn",
@@ -2265,7 +3000,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøkænsørn* de ən 2022.",
+    "en": "The census is from 2022."
+   }
+  ]
  },
  {
   "word": "strøvøktstrøn",
@@ -2274,7 +3014,12 @@
   "category": "Government & Institutional",
   "formality": "Neutral",
   "notes": "Distinct from strøvøkstrøn (constitution)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvøktstrøn* de nøvæl.",
+    "en": "The data is current."
+   }
+  ]
  },
  {
   "word": "strøvøkagørn",
@@ -2283,7 +3028,12 @@
   "category": "Government & Institutional",
   "formality": "Formal",
   "notes": "Formal replacement for agənsi",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvøkagørn* de a StrøNiKæ.",
+    "en": "The agency is a government-chartered census non-profit."
+   }
+  ]
  },
  {
   "word": "kømpæni",
@@ -2294,8 +3044,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da wørkæ æt a kømpæni.",
-    "en": "I work at a company."
+    "sh": "Gə Shæwraka Pəshiø *Kømpæni* de a Prø.",
+    "en": "The Sharaka Casino Company is a private company."
    }
   ]
  },
@@ -2371,8 +3121,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə pørsøn de cha.",
-    "en": "The person is cold."
+    "sh": "Gə *pørsøn* de shæwrakin.",
+    "en": "The person is Shæwrakan."
    }
   ]
  },
@@ -2385,8 +3135,8 @@
   "notes": "Plural of pørsøn",
   "examples": [
    {
-    "sh": "Gə pørsønew gønæ æt gə strøvøksi.",
-    "en": "The people go to the city."
+    "sh": "Gə *pørsønew* nuŋ shæwrakin.",
+    "en": "The people are Shæwrakan."
    }
   ]
  },
@@ -2399,8 +3149,8 @@
   "notes": "Compound: state + person",
   "examples": [
    {
-    "sh": "Da ag strøvøkpørsøn lu shæwaka.",
-    "en": "I am a citizen of Shæwaka."
+    "sh": "Da ag a *strøvøkpørsøn* lu gə prøspæk.",
+    "en": "I am a citizen of the republic."
    }
   ]
  },
@@ -2411,7 +3161,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "Plural form as base",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvøkpørsønew* lu Sønshuənia de 3,861,615.",
+    "en": "The population of Sønshuənia is 3,861,615."
+   }
+  ]
  },
  {
   "word": "vørdøpørsøn",
@@ -2420,7 +3175,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "Compound: agree + person; also means ally",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *vørdøpørsøn* drøvæŋaæk nøra gə køngløn.",
+    "en": "The community developed near the coast."
+   }
+  ]
  },
  {
   "word": "trædøn",
@@ -2429,7 +3189,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "-øn agent suffix from trædæ",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *trædøn* kømæŋaæk frøm gə vøst.",
+    "en": "The merchant came from the west."
+   }
+  ]
  },
  {
   "word": "trædønew",
@@ -2438,7 +3203,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "Plural; used as base form",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *trædønew* møtæŋæwæk ən gə høsøn.",
+    "en": "The merchants met in the hall."
+   }
+  ]
  },
  {
   "word": "fæmøl",
@@ -2447,7 +3217,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Prykhodko *fæmøl* de nøvøtæl.",
+    "en": "The Prykhodko family is well known."
+   }
+  ]
  },
  {
   "word": "mømbrøn",
@@ -2456,7 +3231,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *mømbrøn* lu gə fæmøl kømæŋaæk.",
+    "en": "The member of the family came."
+   }
+  ]
  },
  {
   "word": "strøværdøn",
@@ -2465,7 +3245,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "Derived from strøværdæk (military)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøværdøn* prøhævørn gə strøpøkt.",
+    "en": "The soldier maintained the base."
+   }
+  ]
  },
  {
   "word": "prøvøktøn",
@@ -2474,7 +3259,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvøktøn* strøvændæk gə trædønew.",
+    "en": "The warden led the merchants."
+   }
+  ]
  },
  {
   "word": "grøvøn",
@@ -2483,7 +3273,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "-øn agent suffix from grøvæ",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *grøvøn* lævæŋaæk nøra gə lændøsi.",
+    "en": "The farmer lived near the plain."
+   }
+  ]
  },
  {
   "word": "køngøvøn",
@@ -2492,7 +3287,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "Compound: water + worker",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *køngøvøn* sætæŋaæk nøra gə køngløn.",
+    "en": "The fisher settled near the coast."
+   }
+  ]
  },
  {
   "word": "trædøvøn",
@@ -2501,7 +3301,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "-øn agent suffix from trædæ",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *trædøvøn* kømæŋaæk frøm gə øst.",
+    "en": "The trader came from the east."
+   }
+  ]
  },
  {
   "word": "grøpøn",
@@ -2510,7 +3315,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *grøpøn* lu trædønew møtæŋaæk ən gə trædøsi.",
+    "en": "The group of merchants met at the market."
+   }
+  ]
  },
  {
   "word": "prøvøkgrøpøn",
@@ -2519,7 +3329,12 @@
   "category": "People & Groups",
   "formality": "Formal",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvøkgrøpøn* vørdøn møn gə strøvørnstrøn.",
+    "en": "The party agreed with the government."
+   }
+  ]
  },
  {
   "word": "strøvændøn",
@@ -2528,7 +3343,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "-øn agent suffix from strøvændæk",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvændøn* strøbørn gə vørdøstrøn.",
+    "en": "The leader established the agreement."
+   }
+  ]
  },
  {
   "word": "strøbøn",
@@ -2537,7 +3357,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "-øn agent suffix from strøbørn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøbøn* lu gə trædøsi de nøvøtæl.",
+    "en": "The founder of the market is well known."
+   }
+  ]
  },
  {
   "word": "prøvøknøn",
@@ -2546,7 +3371,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Muscovite *prøvøknøn* drøvæŋaæk stuhøl.",
+    "en": "The Muscovite presence grew significantly."
+   }
+  ]
  },
  {
   "word": "sætøn",
@@ -2555,7 +3385,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "-øn agent suffix from sætæ",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *sætøn* kømæŋaæk frøm gə fahdənsh.",
+    "en": "The settler came from the sea."
+   }
+  ]
  },
  {
   "word": "kæmpøn",
@@ -2564,7 +3399,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "-øn agent suffix from kæmpæk",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *kæmpøn* lævæŋaæk ən gə nørd.",
+    "en": "The enemy lived in the north."
+   }
+  ]
  },
  {
   "word": "frømpørsøn",
@@ -2573,7 +3413,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "Compound: from + person",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *frømpørsøn* kømæŋaæk frøm gə vøst.",
+    "en": "The foreigner came from the west."
+   }
+  ]
  },
  {
   "word": "nørapørsøn",
@@ -2582,7 +3427,12 @@
   "category": "People & Groups",
   "formality": "Neutral",
   "notes": "Compound: near + person",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *nørapørsøn* nøvæda gə rakin.",
+    "en": "The native knows the language."
+   }
+  ]
  },
  {
   "word": "ønsæ",
@@ -2593,8 +3443,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə ønsæ de gæof.",
-    "en": "The island is green."
+    "sh": "Sønshuənia de a *ønsæ* pølænsíne.",
+    "en": "Sønshuənia is an island province."
    }
   ]
  },
@@ -2607,8 +3457,8 @@
   "notes": "Compound: water + along",
   "examples": [
    {
-    "sh": "Døs lævæ øv gə køngløn.",
-    "en": "We live on the coast."
+    "sh": "Gə sætønsi de nøra gə *køngløn*.",
+    "en": "The settlement is near the coast."
    }
   ]
  },
@@ -2621,8 +3471,8 @@
   "notes": "Governmental designation",
   "examples": [
    {
-    "sh": "Gə strøvøksi de stuh.",
-    "en": "The city is big."
+    "sh": "Sønshuənia de gə stuhøltæ *strøvøksi*.",
+    "en": "Sønshuənia is the largest city."
    }
   ]
  },
@@ -2635,8 +3485,8 @@
   "notes": "Compound: republic + place",
   "examples": [
    {
-    "sh": "Shæwaka de a prøspæksi.",
-    "en": "Shæwaka is a country."
+    "sh": "Gə *prøspæksi* de stuhøl.",
+    "en": "The country is significant."
    }
   ]
  },
@@ -2647,7 +3497,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvøktsi* de a strøvøkæl prøvøkt.",
+    "en": "The territory is an official district."
+   }
+  ]
  },
  {
   "word": "rønøsi",
@@ -2656,7 +3511,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Distinct from pølænsíne (province)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *rønøsi* de nøra gə strøvøndsi.",
+    "en": "The region is near the mountain."
+   }
+  ]
  },
  {
   "word": "lændøn",
@@ -2665,7 +3525,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *lændøn* de ŋak øn gæof.",
+    "en": "The land is hot and green."
+   }
+  ]
  },
  {
   "word": "køngøvsi",
@@ -2674,7 +3539,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Compound: water + entry",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew kømønæŋæwæk trøv gə *køngøvsi*.",
+    "en": "The merchants arrived through the port."
+   }
+  ]
  },
  {
   "word": "trædøsi",
@@ -2683,7 +3553,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Derived from trædæ (to trade)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *trædøsi* de ən gə strøvøksi.",
+    "en": "The market is in the city."
+   }
+  ]
  },
  {
   "word": "strøpøktsi",
@@ -2692,7 +3567,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Derived from strøpøkt (military base)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdæk strøbørn a *strøpøktsi* ən Ønsa.",
+    "en": "The military established an outpost in Ønsa."
+   }
+  ]
  },
  {
   "word": "sætønsi",
@@ -2701,7 +3581,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Derived from sætøn (settler)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *sætønsi* strøvælunŋaæk tø rønda 900 C.E.",
+    "en": "The settlement dates back to around 900 C.E."
+   }
+  ]
  },
  {
   "word": "midøsi",
@@ -2710,7 +3595,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi de gə *midøsi* lu gə strøvøksi.",
+    "en": "The market is the center of the city."
+   }
+  ]
  },
  {
   "word": "høsøn",
@@ -2719,7 +3609,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew møtæŋæwæk ən gə *høsøn*.",
+    "en": "The merchants met in the hall."
+   }
+  ]
  },
  {
   "word": "vøntæsi",
@@ -2728,7 +3623,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Derived from vøntæ (between)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøværdæk prøhævørn gə *vøntæsi*.",
+    "en": "The military maintained the border."
+   }
+  ]
  },
  {
   "word": "strøvøndsi",
@@ -2737,7 +3637,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Ævænin lævæŋæwæk øv gə *strøvøndsi*.",
+    "en": "The avian people lived on the mountain."
+   }
+  ]
  },
  {
   "word": "køngøsi",
@@ -2746,7 +3651,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Compound: water + flow",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sætønsi de nøra gə *køngøsi*.",
+    "en": "The settlement is near the river."
+   }
+  ]
  },
  {
   "word": "drøvøsi",
@@ -2755,7 +3665,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə vøksiew lævæŋæwæk ən gə *drøvøsi*.",
+    "en": "The foxes lived in the forest."
+   }
+  ]
  },
  {
   "word": "lændøsi",
@@ -2764,7 +3679,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Derived from lændøn (land)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə grøvøn lævæŋaæk nøra gə *lændøsi*.",
+    "en": "The farmer lived near the plain."
+   }
+  ]
  },
  {
   "word": "køngønsi",
@@ -2773,7 +3693,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Compound: water + near",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sha sætæŋaæk ən gə *køngønsi*.",
+    "en": "The shark settled in the bay."
+   }
+  ]
  },
  {
   "word": "nørd",
@@ -2782,7 +3707,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə vøksiew kømønæŋæwæk frøm gə *nørd*.",
+    "en": "The foxes came from the north."
+   }
+  ]
  },
  {
   "word": "sødn",
@@ -2791,7 +3721,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə løpærdiew lævæŋæwæk ən gə *sødn*.",
+    "en": "The leopards lived in the south."
+   }
+  ]
  },
  {
   "word": "øst",
@@ -2800,7 +3735,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə drækiew kømønæŋæwæk frøm gə *øst*.",
+    "en": "The dragons came from the east."
+   }
+  ]
  },
  {
   "word": "vøst",
@@ -2809,7 +3749,12 @@
   "category": "Geography",
   "formality": "Neutral",
   "notes": "Bare root; no suffix",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew kømæŋæwæk frøm gə *vøst*.",
+    "en": "The merchants came from the west."
+   }
+  ]
  },
  {
   "word": "trædsi",
@@ -2820,8 +3765,8 @@
   "notes": "Distinct from trædøn (merchant)",
   "examples": [
    {
-    "sh": "Gə trædsi de strøvøkæl.",
-    "en": "The trade is official."
+    "sh": "Gə *trædsi* de nøvøtæl ən gə strøvøksi.",
+    "en": "Trade is well known in the city."
    }
   ]
  },
@@ -2832,7 +3777,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Via -øn from strøkøpørn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøkøpøn* lu køngøn de stuhøl.",
+    "en": "The export of fish is significant."
+   }
+  ]
  },
  {
   "word": "prøvøkøn",
@@ -2841,7 +3791,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Via -øn from prøvøkørn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvøkøn* lu spørsøn de nøvæl.",
+    "en": "The import of spice is current."
+   }
+  ]
  },
  {
   "word": "prøvønstrøn",
@@ -2850,7 +3805,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Distinct from report",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædsi drøvønæŋaæk gə *prøvønstrøn*.",
+    "en": "Trade improved the revenue."
+   }
+  ]
  },
  {
   "word": "strøtækøn",
@@ -2859,7 +3819,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Via -øn from strøtækørn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvørnstrøn strøbørn gə *strøtækøn*.",
+    "en": "The government established the tariff."
+   }
+  ]
  },
  {
   "word": "strøtæk",
@@ -2868,7 +3833,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Root of strøtækørn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøtæk* de stuhøl.",
+    "en": "The tax is significant."
+   }
+  ]
  },
  {
   "word": "trædøktøn",
@@ -2877,7 +3847,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Distinct from market",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew brøŋæk gə *trædøktøn*.",
+    "en": "The merchants brought the goods."
+   }
+  ]
  },
  {
   "word": "spørsøn",
@@ -2886,7 +3861,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *spørsøn* kømæŋaæk frøm gə øst.",
+    "en": "The spice came from the east."
+   }
+  ]
  },
  {
   "word": "frøktøn",
@@ -2895,7 +3875,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *frøktøn* de nøvæl ən gə trædøsi.",
+    "en": "The fruit is good at the market."
+   }
+  ]
  },
  {
   "word": "drøvøktøn",
@@ -2904,7 +3889,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Derived from drøvøsi (forest)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Muscovite trædønew bødæŋæwæk gə *drøvøktøn*.",
+    "en": "The Muscovite merchants offered lumber."
+   }
+  ]
  },
  {
   "word": "fævrøn",
@@ -2913,7 +3903,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *fævrøn* de nøvøtæl ən gə nørd.",
+    "en": "Fur is well known in the north."
+   }
+  ]
  },
  {
   "word": "køngøn",
@@ -2922,7 +3917,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Derived from køng (water)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøspæk strøkøpørn gə *køngøn* tø gə Muscovite trædøsi.",
+    "en": "The republic exported fish to the Muscovite market."
+   }
+  ]
  },
  {
   "word": "prøsøn",
@@ -2931,7 +3931,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøsøn* lu gə spørsøn de stuhøl.",
+    "en": "The price of spice is high."
+   }
+  ]
  },
  {
   "word": "strøvøkdəlukø",
@@ -2940,7 +3945,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Compound: state + dollar",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvøkdəlukø* de nøvæl.",
+    "en": "The currency is current."
+   }
+  ]
  },
  {
   "word": "dəbtøn",
@@ -2949,7 +3959,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə fæmøl hævæda a stuhøl *dəbtøn*.",
+    "en": "The family has a large debt."
+   }
+  ]
  },
  {
   "word": "prøvønøn",
@@ -2958,7 +3973,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Distinct from warden",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi drøvæŋaæk gə *prøvønøn*.",
+    "en": "The market developed the profit."
+   }
+  ]
  },
  {
   "word": "løsøn",
@@ -2967,7 +3987,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "Derived from løsæ (to lose)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə kæmpøn hævæda a stuhøl *løsøn*.",
+    "en": "The enemy had a large loss."
+   }
+  ]
  },
  {
   "word": "strøvøktrøn",
@@ -2976,7 +4001,12 @@
   "category": "Trade & Economy",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə fæmøl strøknørn gə *strøvøktrøn*.",
+    "en": "The family signed the contract."
+   }
+  ]
  },
  {
   "word": "jærøn",
@@ -2987,8 +4017,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "A jærøn hævæ tøn mønøn.",
-    "en": "A year has many months."
+    "sh": "Gə prøspæk strøbørn ən gə *jærøn* 1550.",
+    "en": "The republic was established in the year 1550."
    }
   ]
  },
@@ -2999,7 +4029,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: hundred + year",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə 13 *strøjærøn* de nøvøtæl.",
+    "en": "The 13th century is well known."
+   }
+  ]
  },
  {
   "word": "tønjærøn",
@@ -3008,7 +4043,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: ten + year",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædsi grøvæŋaæk øv a *tønjærøn*.",
+    "en": "Trade grew over a decade."
+   }
+  ]
  },
  {
   "word": "mønøn",
@@ -3019,8 +4059,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə mønøn de cha.",
-    "en": "The month is cold."
+    "sh": "Gə strøværdstrøn inværdæk ən gə *mønøn* lu August.",
+    "en": "The army invaded in the month of August."
    }
   ]
  },
@@ -3031,7 +4071,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøgøvørn løsæŋaæk nækøs *vøkøn*.",
+    "en": "The negotiation eased after a week."
+   }
+  ]
  },
  {
   "word": "dægøn",
@@ -3040,7 +4085,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt strøknørn gə prøvørdørn ən ves *dægøn*.",
+    "en": "The president signed the order on this day."
+   }
+  ]
  },
  {
   "word": "ørøn",
@@ -3049,7 +4099,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da møtæda gə strøvændøn ən a *ørøn*.",
+    "en": "I met the leader in an hour."
+   }
+  ]
  },
  {
   "word": "tímøn",
@@ -3058,7 +4113,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *tímøn* de nøvæl fər gə vørdøstrøn.",
+    "en": "The time is right for the agreement."
+   }
+  ]
  },
  {
   "word": "strøvælunsi",
@@ -3067,7 +4127,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: str- + vælun (since)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvælunsi* lu Sønshuənia de stuhøl.",
+    "en": "The history of Sønshuənia is significant."
+   }
+  ]
  },
  {
   "word": "prøtímøn",
@@ -3076,7 +4141,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "pr- + time compound",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøtímøn* lu gə Russian køntrøl de løtøl.",
+    "en": "The period of Russian control was long."
+   }
+  ]
  },
  {
   "word": "strøtímøn",
@@ -3085,7 +4155,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "str- + time compound",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøtímøn* lu gə trædæ de nøvøtæl.",
+    "en": "The era of trade is well known."
+   }
+  ]
  },
  {
   "word": "dægøntímøn",
@@ -3094,7 +4169,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: day + time",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *dægøntímøn* lu gə strøfrøvæk de 1550.",
+    "en": "The date of independence is 1550."
+   }
+  ]
  },
  {
   "word": "ørdægøn",
@@ -3103,7 +4183,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: early + day",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da kømæŋaæk ən gə *ørdægøn*.",
+    "en": "I arrived in the morning."
+   }
+  ]
  },
  {
   "word": "middægøn",
@@ -3112,7 +4197,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: mid + day",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew møtæŋæwæk ən gə *middægøn*.",
+    "en": "The merchants met in the afternoon."
+   }
+  ]
  },
  {
   "word": "løtdægøn",
@@ -3121,7 +4211,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: late + day",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvændøn spræk ən gə *løtdægøn*.",
+    "en": "The leader spoke in the evening."
+   }
+  ]
  },
  {
   "word": "nøktøn",
@@ -3130,7 +4225,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sha æfi ən gə *nøktøn*.",
+    "en": "The shark attacks in the night."
+   }
+  ]
  },
  {
   "word": "nødægøn",
@@ -3139,7 +4239,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: now + day",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da gønæda tø gə trædøsi *nødægøn*.",
+    "en": "I will go to the market today."
+   }
+  ]
  },
  {
   "word": "prødægøn",
@@ -3148,7 +4253,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: before + day",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvændøn kømæŋaæk *prødægøn*.",
+    "en": "The leader came yesterday."
+   }
+  ]
  },
  {
   "word": "nækødægøn",
@@ -3157,7 +4267,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: after + day",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da søvæda dia *nækødægøn*.",
+    "en": "I will see you tomorrow."
+   }
+  ]
  },
  {
   "word": "nøv",
@@ -3166,7 +4281,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da gønæda *nøv*.",
+    "en": "I'm going now."
+   }
+  ]
  },
  {
   "word": "tønøv",
@@ -3175,7 +4295,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "Compound: that + now",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Da agæk *tønøv* ən gə strøvøksi.",
+    "en": "I was then in the city."
+   }
+  ]
  },
  {
   "word": "sønnøv",
@@ -3184,7 +4309,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædønew kømønæŋæwæk *sønnøv*.",
+    "en": "The merchants will arrive soon."
+   }
+  ]
  },
  {
   "word": "løtøn",
@@ -3193,7 +4323,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə strøvændøn kømæŋaæk *løtøn*.",
+    "en": "The leader arrived late."
+   }
+  ]
  },
  {
   "word": "ørdøn",
@@ -3202,7 +4337,12 @@
   "category": "Time",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə sætønsiw strøbørn *ørdøn*.",
+    "en": "The settlements were established early."
+   }
+  ]
  },
  {
   "word": "rækøntøn",
@@ -3213,8 +4353,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Da hævæ a rækøntøn.",
-    "en": "I have an account."
+    "sh": "Gə *rækøntøn* lu gə trædæ de ørdøl.",
+    "en": "The account of trade is early."
    }
   ]
  },
@@ -3227,8 +4367,8 @@
   "notes": "Derived from kæmpøn (fighter)",
   "examples": [
    {
-    "sh": "Gə kæmpønsi de stuh.",
-    "en": "The conflict is big."
+    "sh": "Gə *kæmpønsi* vørdæŋaæk frøm gə strøkæmpøn.",
+    "en": "The conflict arose from the tension."
    }
   ]
  },
@@ -3239,7 +4379,12 @@
   "category": "General Nouns",
   "formality": "Formal",
   "notes": "Formal conflict",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøkæmpøn* vørdæŋaæk vøntæ gə shæw øn gə vøksiew.",
+    "en": "The tension arose between the sharks and foxes."
+   }
+  ]
  },
  {
   "word": "strøvøkdispøn",
@@ -3248,7 +4393,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvøkdispøn* rəzøltørn ən gə strøvøktørn.",
+    "en": "The dispute resulted in court."
+   }
+  ]
  },
  {
   "word": "prøblømøn",
@@ -3257,7 +4407,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøblømøn* de ni nøvæl.",
+    "en": "The problem is not good."
+   }
+  ]
  },
  {
   "word": "vørdøblømøn",
@@ -3266,7 +4421,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Compound: agree + problem",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *vørdøblømøn* de stuhøl.",
+    "en": "The solution is significant."
+   }
+  ]
  },
  {
   "word": "stætøn",
@@ -3275,7 +4435,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *stætøn* lu gə trædøsi de nøvæl.",
+    "en": "The condition of the market is good."
+   }
+  ]
  },
  {
   "word": "vørdønsi",
@@ -3284,7 +4449,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Derived from vørdøn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *vørdønsi* de stuhøl fər gə prøspæk.",
+    "en": "The change is significant for the republic."
+   }
+  ]
  },
  {
   "word": "kømønstrøn",
@@ -3293,7 +4463,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Derived from kømønæ (to arrive)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *kømønstrøn* lu frømpørsønew drøvæŋaæk.",
+    "en": "The influx of foreigners grew."
+   }
+  ]
  },
  {
   "word": "prøkæmpøn",
@@ -3302,7 +4477,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "pr- + fight compound",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Russian *prøkæmpøn* inværdæk gə ønsæ.",
+    "en": "The Russian attempt invaded the island."
+   }
+  ]
  },
  {
   "word": "strøvækøn",
@@ -3311,7 +4491,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Derived from strøvæk (law)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvækøn* de nøvæl fər gə trædøsi.",
+    "en": "The rule is current for the market."
+   }
+  ]
  },
  {
   "word": "strøvøksøn",
@@ -3320,7 +4505,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøvøksøn* de stuhøl.",
+    "en": "The system is significant."
+   }
+  ]
  },
  {
   "word": "strøktørøn",
@@ -3329,7 +4519,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *strøktørøn* lu gə strøvørnstrøn de nøvæl.",
+    "en": "The structure of the government is current."
+   }
+  ]
  },
  {
   "word": "dønøn",
@@ -3338,7 +4533,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Derived from dønæ (to do/make)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *dønøn* de ni nøvæl.",
+    "en": "The thing is not good."
+   }
+  ]
  },
  {
   "word": "vægøn",
@@ -3347,7 +4547,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Germanic weg feel",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *vægøn* de nøvæl.",
+    "en": "The way is good."
+   }
+  ]
  },
  {
   "word": "nømøn",
@@ -3356,7 +4561,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Derived from nømæ (to name)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "¿Dør *nømøn* de vek?",
+    "en": "Is that your name?"
+   }
+  ]
  },
  {
   "word": "nømbrøn",
@@ -3365,7 +4575,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *nømbrøn* lu strøvøkpørsønew de 3,861,615.",
+    "en": "The number of citizens is 3,861,615."
+   }
+  ]
  },
  {
   "word": "dæløn",
@@ -3374,7 +4589,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Germanic deel feel",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə nørdvøst *dæløn* lu gə ønsæ de nøvæl.",
+    "en": "The northwest part of the island is good."
+   }
+  ]
  },
  {
   "word": "sídøn",
@@ -3383,7 +4603,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw lævæŋæwæk øv gə nørdæl *sídøn*.",
+    "en": "The sharks lived on the northern side."
+   }
+  ]
  },
  {
   "word": "prøntøn",
@@ -3392,7 +4617,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøntøn* de nøvæl.",
+    "en": "The point is good."
+   }
+  ]
  },
  {
   "word": "dænøn",
@@ -3401,7 +4631,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "Derived from dæn (because)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *dænøn* de ni nøvæl.",
+    "en": "The reason is not good."
+   }
+  ]
  },
  {
   "word": "tærmøn",
@@ -3410,7 +4645,12 @@
   "category": "General Nouns",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *tærmøn* lu gə strøvøktrøn de nøvæl.",
+    "en": "The term of the contract is good."
+   }
+  ]
  },
  {
   "word": "strøvøkæl",
@@ -3421,8 +4661,8 @@
   "notes": "str- cluster; -æl adjective suffix",
   "examples": [
    {
-    "sh": "Gə rækøntøn de strøvøkæl.",
-    "en": "The account is official."
+    "sh": "Gə *strøvøkæl* nømøn de Sønshuənia.",
+    "en": "The official name is Sønshuənia."
    }
   ]
  },
@@ -3435,8 +4675,8 @@
   "notes": "Derived from nøv (now)",
   "examples": [
    {
-    "sh": "Gə nøvæl jærøn.",
-    "en": "The current year."
+    "sh": "Gə *nøvæl* prøstrøvænt de Hailey Jade Velîkånek.",
+    "en": "The current president is Hailey Jade Velîkånek."
    }
   ]
  },
@@ -3449,8 +4689,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə førstøl pørsøn.",
-    "en": "The first person."
+    "sh": "Gə *førstøl* sætønsiw strøvælunŋæwæk tø rønda 900 C.E.",
+    "en": "The first settlements date back to around 900 C.E."
    }
   ]
  },
@@ -3463,8 +4703,8 @@
   "notes": "",
   "examples": [
    {
-    "sh": "Gə lætøl mønøn.",
-    "en": "The last month."
+    "sh": "Gə *lætøl* prøstrøvænt strøknørn gə prøvørdørn.",
+    "en": "The last president signed the executive order."
    }
   ]
  },
@@ -3475,7 +4715,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from nøra (near)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *nøræl* vørdøpørsøn drøvæŋaæk stuhøl.",
+    "en": "The local community developed significantly."
+   }
+  ]
  },
  {
   "word": "frømbæl",
@@ -3484,7 +4729,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from frøm (from)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *frømbæl* trædønew kømønæŋæwæk frøm gə vøst.",
+    "en": "The foreign merchants came from the west."
+   }
+  ]
  },
  {
   "word": "strøvøkbæl",
@@ -3493,7 +4743,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "str- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Prykhodko fæmøl de *strøvøkbæl*.",
+    "en": "The Prykhodko family is significant."
+   }
+  ]
  },
  {
   "word": "stuhøl",
@@ -3502,7 +4757,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from stuh (big)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *stuhøl* prøvøknøn de gə Muscovite trædønew.",
+    "en": "The major presence is the Muscovite merchants."
+   }
+  ]
  },
  {
   "word": "vørdøbæl",
@@ -3511,16 +4771,26 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *vørdøbæl* prøblømøn de gə strøtæk.",
+    "en": "The common problem is the tax."
+   }
+  ]
  },
  {
   "word": "midøbæl",
-  "english": "neutral",
-  "pos": "Adjective",
-  "category": "Adjectives",
+  "english": "I'm managing / neutral",
+  "pos": "Phrase",
+  "category": "Greetings & Social",
   "formality": "Neutral",
-  "notes": "Derived from midøsi (center)",
-  "examples": []
+  "notes": "Polite deflection; more honest than nøvæl but less vulnerable than ni nøvæl",
+  "examples": [
+   {
+    "sh": "Gə *midøbæl* vørdøpørsøn lævæŋaæk vøntæ gə shæw øn gə vøksiew.",
+    "en": "The neutral community lived between the sharks and foxes."
+   }
+  ]
  },
  {
   "word": "nøvøbæl",
@@ -3529,7 +4799,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from nøvæ (to know)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə Prykhodko fæmøl de *nøvøbæl*.",
+    "en": "The Prykhodko family is trusted."
+   }
+  ]
  },
  {
   "word": "vørdømæl",
@@ -3538,7 +4813,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from vørdøn (to agree)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prøvørdstrøn de *vørdømæl*.",
+    "en": "The treaty is mutual."
+   }
+  ]
  },
  {
   "word": "strøkæmpæl",
@@ -3547,7 +4827,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from strøkæmpøn (tension)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prømændstrøn de *strøkæmpæl* ən gə strøvælunsi lu shæwaka.",
+    "en": "The amendment is controversial in Shæwaka's history."
+   }
+  ]
  },
  {
   "word": "prødægøl",
@@ -3556,7 +4841,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from prødægøn (yesterday)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prødægøl* strøpøvæk agæk Chakøng.",
+    "en": "The previous capital was Chakøng."
+   }
+  ]
  },
  {
   "word": "prøvøkbæl",
@@ -3565,7 +4855,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *prøvøkbæl* pølænsínew hævæŋæwæk gə prøvøktstrø.",
+    "en": "The respective provinces had authority."
+   }
+  ]
  },
  {
   "word": "ənstrøvøkæl",
@@ -3574,7 +4869,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Compound: in + governmental",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *ənstrøvøkæl* strøvøkæl strøvækøn de ni nøvæl.",
+    "en": "The internal official rule is not good."
+   }
+  ]
  },
  {
   "word": "nørdæl",
@@ -3583,7 +4883,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from nørd",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə shæw sætæŋæwæk øv gə *nørdæl* køngløn.",
+    "en": "The sharks settled on the northern coast."
+   }
+  ]
  },
  {
   "word": "sødnæl",
@@ -3592,7 +4897,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from sødn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Sønshuənia de øv gə *sødnæl* køngløn lu Ji Dənsh.",
+    "en": "Sønshuənia is off the southern coast of Ji Dənsh."
+   }
+  ]
  },
  {
   "word": "østæl",
@@ -3601,7 +4911,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from øst",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə drækiew kømønæŋæwæk frøm gə *østæl* rønøsi.",
+    "en": "The dragons came from the eastern region."
+   }
+  ]
  },
  {
   "word": "vøstæl",
@@ -3610,7 +4925,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from vøst",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə frømbæl trædønew kømønæŋæwæk frøm gə *vøstæl* prøvøktsi.",
+    "en": "The foreign merchants came from the western territory."
+   }
+  ]
  },
  {
   "word": "stuhøltæ",
@@ -3619,7 +4939,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Superlative of stuhøl; -tæ superlative suffix",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Sønshuənia de gə *stuhøltæ* 6 pølænsíne ən tærmøn lu prøvøkpørsønew.",
+    "en": "Sønshuənia is the 6th largest province in terms of population."
+   }
+  ]
  },
  {
   "word": "prøvøkstætøl",
@@ -3628,7 +4953,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə ønsæ de a *prøvøkstætøl* 28,000km².",
+    "en": "The island is an estimated 28,000km²."
+   }
+  ]
  },
  {
   "word": "nøvøtæl",
@@ -3637,7 +4967,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from nøvæ (to know)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Sønshuənia de *nøvøtæl* fər gə stuhøltæ prøvøkpørsønew lu Sharkin.",
+    "en": "Sønshuənia is known for the largest population of Sharkin."
+   }
+  ]
  },
  {
   "word": "ørdøl",
@@ -3646,7 +4981,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Derived from ørdøn",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *ørdøl* sætønsiw strøvælunŋæwæk tø rønda 900 C.E.",
+    "en": "The early settlements date back to around 900 C.E."
+   }
+  ]
  },
  {
   "word": "nøvstrøvøkæl",
@@ -3655,7 +4995,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Compound: now + governmental",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə *nøvstrøvøkæl* dægøn Øsna de nøvøtæl.",
+    "en": "Modern day Øsna is well known."
+   }
+  ]
  },
  {
   "word": "førstøvøkæl",
@@ -3664,7 +5009,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "Compound: first + official",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə trædøsi de gə *førstøvøkæl* midøsi lu gə ønsæ.",
+    "en": "The market is the primary center of the island."
+   }
+  ]
  },
  {
   "word": "prøvøkæl",
@@ -3673,7 +5023,12 @@
   "category": "Adjectives",
   "formality": "Neutral",
   "notes": "pr- cluster",
-  "examples": []
+  "examples": [
+   {
+    "sh": "Gə prødægøl strøpøvæk agæk gə *prøvøkæl* strøvøksi.",
+    "en": "The previous capital was the former city."
+   }
+  ]
  },
  {
   "word": "ves",
@@ -3682,7 +5037,12 @@
   "category": "Function Words",
   "formality": "Neutral",
   "notes": "Demonstrative; near speaker, singular",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Ves* de gə ønsæ.",
+    "en": "This is the island."
+   }
+  ]
  },
  {
   "word": "vek",
@@ -3691,7 +5051,12 @@
   "category": "Function Words",
   "formality": "Neutral",
   "notes": "Demonstrative; far from speaker, singular; distinct from tæ (conjunction)",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Vek* de gə strøvøksi.",
+    "en": "That is the city."
+   }
+  ]
  },
  {
   "word": "vesew",
@@ -3700,7 +5065,12 @@
   "category": "Function Words",
   "formality": "Neutral",
   "notes": "Plural of ves via regular -ew rule",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Vesew* nuŋ gə sætønsiw.",
+    "en": "These are the settlements."
+   }
+  ]
  },
  {
   "word": "vekew",
@@ -3709,6 +5079,543 @@
   "category": "Function Words",
   "formality": "Neutral",
   "notes": "Plural of vek via regular -ew rule",
-  "examples": []
+  "examples": [
+   {
+    "sh": "*Vekew* nuŋ gə trædønew.",
+    "en": "Those are the merchants."
+   }
+  ]
+ },
+ {
+  "word": "bøgønæ",
+  "english": "to begin / to start",
+  "pos": "Verb",
+  "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
+  "notes": "Helper verb; conjugate this, keep main verb as root",
+  "examples": [
+   {
+    "sh": "Gə vøksiew *bøgønæ*ŋæwæk kømønæ.",
+    "en": "The foxes started to arrive."
+   }
+  ]
+ },
+ {
+  "word": "køntrøldæ",
+  "english": "to be able to / can",
+  "pos": "Verb",
+  "category": "Verbs — Everyday (-æ)",
+  "formality": "Neutral",
+  "notes": "Ability verb; used in 'I can't' construction",
+  "examples": [
+   {
+    "sh": "Da ni *køntrøldæ*da gønæ.",
+    "en": "I can't go."
+   }
+  ]
+ },
+ {
+  "word": "høvda",
+  "english": "how (as in how are you)",
+  "pos": "Adverb",
+  "category": "Greetings & Social",
+  "formality": "Informal",
+  "notes": "Derived from hævæ (to have); høvda di = how are you informal",
+  "examples": [
+   {
+    "sh": "¿*Høvda* di?",
+    "en": "How are you?"
+   }
+  ]
+ },
+ {
+  "word": "kønøvæl",
+  "english": "you're welcome / of course",
+  "pos": "Interjection",
+  "category": "Greetings & Social",
+  "formality": "Neutral",
+  "notes": "Literally 'naturally known'; also used for of course",
+  "examples": [
+   {
+    "sh": "*Kønøvæl*! Da særvæda.",
+    "en": "You're welcome! I serve."
+   }
+  ]
+ },
+ {
+  "word": "støp",
+  "english": "stop (informal)",
+  "pos": "Interjection",
+  "category": "Greetings & Social",
+  "formality": "Informal",
+  "notes": "Borrowed form; informal only",
+  "examples": [
+   {
+    "sh": "*Støp*! Da ni wølæda ves.",
+    "en": "Stop! I don't want this."
+   }
+  ]
+ },
+ {
+  "word": "prøstøpørn",
+  "english": "stop (formal)",
+  "pos": "Verb",
+  "category": "Greetings & Social",
+  "formality": "Formal",
+  "notes": "Formal command; str- Slavic cluster",
+  "examples": [
+   {
+    "sh": "*Prøstøpørn*. Ves de strøvøkæl ni nøvæl.",
+    "en": "Stop. This is officially not acceptable."
+   }
+  ]
+ },
+ {
+  "word": "nøvørdægøn",
+  "english": "good morning",
+  "pos": "Phrase",
+  "category": "Greetings & Social",
+  "formality": "Formal",
+  "notes": "Compound: now + morning; add Møsa for formal",
+  "examples": [
+   {
+    "sh": "*Nøvørdægøn*! ¿Høvda di?",
+    "en": "Good morning! How are you?"
+   }
+  ]
+ },
+ {
+  "word": "nøvløtdægøn",
+  "english": "good evening",
+  "pos": "Phrase",
+  "category": "Greetings & Social",
+  "formality": "Formal",
+  "notes": "Compound: now + evening; add Møsa for formal",
+  "examples": [
+   {
+    "sh": "*Nøvløtdægøn*. Da gønæda nøv.",
+    "en": "Good evening. I'm going now."
+   }
+  ]
+ },
+ {
+  "word": "ølæfæl",
+  "english": "doing bad / dark",
+  "pos": "Adjective",
+  "category": "Greetings & Social",
+  "formality": "Neutral",
+  "notes": "Derived from ølæf (black); used in Da'g ølæfæl; close friends/family only",
+  "examples": [
+   {
+    "sh": "Da'g *ølæfæl*. Da nødæda gə nøstvna.",
+    "en": "I'm doing bad. I need forgiveness."
+   }
+  ]
+ },
+ {
+  "word": "drækí",
+  "english": "dragon",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker; fursona species, not mythological",
+  "examples": [
+   {
+    "sh": "Gə *drækí* kømæŋaæk frøm gə øst.",
+    "en": "The dragon came from the east."
+   }
+  ]
+ },
+ {
+  "word": "drækiew",
+  "english": "dragons",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of drækí",
+  "examples": [
+   {
+    "sh": "Gə *drækiew* nuŋ stuhøl øn nøvøtæl.",
+    "en": "The dragons are large and well known."
+   }
+  ]
+ },
+ {
+  "word": "vøksí",
+  "english": "fox",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker; culturally important",
+  "examples": [
+   {
+    "sh": "Gə *vøksí* sætæŋaæk nøra gə køngløn.",
+    "en": "The fox settled near the coast."
+   }
+  ]
+ },
+ {
+  "word": "vøksiew",
+  "english": "foxes",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of vøksí",
+  "examples": [
+   {
+    "sh": "Gə Vøksin trædæŋæwæk møn gə shæw.",
+    "en": "The Foxen traded with the sharks."
+   }
+  ]
+ },
+ {
+  "word": "Vøksin",
+  "english": "Foxen (demonym)",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Demonym for fox people; -in suffix",
+  "examples": [
+   {
+    "sh": "Gə *Vøksin* kømønæŋæwæk øv gə ønsæ rønda 950 C.E.",
+    "en": "The Foxen arrived on the island around 950 C.E."
+   }
+  ]
+ },
+ {
+  "word": "køngøní",
+  "english": "fish (species)",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker; derived from køngøn (fish as food); formerly oppressed, fully equal in modern Shæwraka",
+  "examples": [
+   {
+    "sh": "Gə *køngøní* de a strøvøkpørsøn lu gə prøspæk.",
+    "en": "The fish is a citizen of the republic."
+   }
+  ]
+ },
+ {
+  "word": "køngøniew",
+  "english": "fish (species, plural)",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of køngøní",
+  "examples": [
+   {
+    "sh": "Gə Køngønin agøsæk prøvøkpørsønew nøvæl.",
+    "en": "The fish people were formerly oppressed."
+   }
+  ]
+ },
+ {
+  "word": "Køngønin",
+  "english": "fish demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Køngønin* nuŋ nøvæl strøvøkpørsønew.",
+    "en": "The fish people are now full citizens."
+   }
+  ]
+ },
+ {
+  "word": "bærí",
+  "english": "bear",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker",
+  "examples": [
+   {
+    "sh": "Gə *bærí* de stuhon.",
+    "en": "The bear is large (male)."
+   }
+  ]
+ },
+ {
+  "word": "bæriew",
+  "english": "bears",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of bærí",
+  "examples": [
+   {
+    "sh": "Gə Bærin kømønæŋæwæk frøm gə nørd.",
+    "en": "The bears came from the north."
+   }
+  ]
+ },
+ {
+  "word": "Bærin",
+  "english": "bear demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Bærin* lævæŋæwæk nøra gə strøvøndsi.",
+    "en": "The bear people lived near the mountain."
+   }
+  ]
+ },
+ {
+  "word": "lynksí",
+  "english": "lynx",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker",
+  "examples": [
+   {
+    "sh": "Gə *lynksí* de fuhøl øn nøvøbæl.",
+    "en": "The lynx is small and trusted."
+   }
+  ]
+ },
+ {
+  "word": "lynksiew",
+  "english": "lynxes",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of lynksí",
+  "examples": [
+   {
+    "sh": "Gə Lynksin trædæŋæwæk møn gə Bærin.",
+    "en": "The lynx people traded with the bear people."
+   }
+  ]
+ },
+ {
+  "word": "Lynksin",
+  "english": "lynx demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Lynksin* lævæŋæwæk ən gə drøvøsi.",
+    "en": "The lynx people lived in the forest."
+   }
+  ]
+ },
+ {
+  "word": "løpærdí",
+  "english": "leopard",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker",
+  "examples": [
+   {
+    "sh": "Gə *løpærdí* kømæŋaæk frøm gə sødn.",
+    "en": "The leopard came from the south."
+   }
+  ]
+ },
+ {
+  "word": "løpærdiew",
+  "english": "leopards",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of løpærdí",
+  "examples": [
+   {
+    "sh": "Gə Løpærdin nuŋ nøvøtæl fər gə trædæ.",
+    "en": "The leopard people are known for trade."
+   }
+  ]
+ },
+ {
+  "word": "Løpærdin",
+  "english": "leopard demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Løpærdin* sætæŋæwæk nøra gə lændøsi.",
+    "en": "The leopard people settled near the plain."
+   }
+  ]
+ },
+ {
+  "word": "snøløpærdí",
+  "english": "snow leopard",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Compound: snø + løpærdí; -í species marker",
+  "examples": [
+   {
+    "sh": "Gə *snøløpærdí* de fuhøl øn ŋacha.",
+    "en": "The snow leopard is small and warm."
+   }
+  ]
+ },
+ {
+  "word": "snøløpærdiew",
+  "english": "snow leopards",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of snøløpærdí",
+  "examples": [
+   {
+    "sh": "Gə Snøløpærdin kømønæŋæwæk frøm gə strøvøndsi.",
+    "en": "The snow leopard people arrived from the mountain."
+   }
+  ]
+ },
+ {
+  "word": "Snøløpærdin",
+  "english": "snow leopard demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Snøløpærdin* lævæŋæwæk ən gə ŋak lændøn.",
+    "en": "The snow leopard people lived in the hot land."
+   }
+  ]
+ },
+ {
+  "word": "ælkí",
+  "english": "elk",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker",
+  "examples": [
+   {
+    "sh": "Gə *ælkí* de stuhon øn nøvøtæl.",
+    "en": "The elk is large and well known."
+   }
+  ]
+ },
+ {
+  "word": "ælkiew",
+  "english": "elks",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of ælkí",
+  "examples": [
+   {
+    "sh": "Gə Ælkin trædæŋæwæk møn gə Dærin.",
+    "en": "The elk people traded with the deer people."
+   }
+  ]
+ },
+ {
+  "word": "Ælkin",
+  "english": "elk demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Ælkin* lævæŋæwæk nøra gə køngøsi.",
+    "en": "The elk people lived near the river."
+   }
+  ]
+ },
+ {
+  "word": "dærí",
+  "english": "deer",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker",
+  "examples": [
+   {
+    "sh": "Gə *dærí* gønæŋaæk trøv gə drøvøsi.",
+    "en": "The deer went through the forest."
+   }
+  ]
+ },
+ {
+  "word": "dæriew",
+  "english": "deer (plural)",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of dærí",
+  "examples": [
+   {
+    "sh": "Gə Dærin sætæŋæwæk ən gə lændøsi.",
+    "en": "The deer people settled in the plain."
+   }
+  ]
+ },
+ {
+  "word": "Dærin",
+  "english": "deer demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Dærin* nuŋ nøvøtæl fər gə grøvæ.",
+    "en": "The deer people are known for farming."
+   }
+  ]
+ },
+ {
+  "word": "ævæní",
+  "english": "avian / bird",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-í species marker; broad category",
+  "examples": [
+   {
+    "sh": "Gə *ævæní* gønæŋaæk øvra gə ønsæ.",
+    "en": "The bird flew over the island."
+   }
+  ]
+ },
+ {
+  "word": "ævæniew",
+  "english": "avians / birds",
+  "pos": "Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "Plural of ævæní",
+  "examples": [
+   {
+    "sh": "Gə Ævænin kømønæŋæwæk frøm gə øst.",
+    "en": "The avian people came from the east."
+   }
+  ]
+ },
+ {
+  "word": "Ævænin",
+  "english": "avian demonym",
+  "pos": "Proper Noun",
+  "category": "Animals & Species",
+  "formality": "Neutral",
+  "notes": "-in suffix demonym",
+  "examples": [
+   {
+    "sh": "Gə *Ævænin* lævæŋæwæk øv gə strøvøndsi.",
+    "en": "The avian people lived on the mountain."
+   }
+  ]
  }
 ]
