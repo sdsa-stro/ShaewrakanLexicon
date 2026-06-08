@@ -15,7 +15,7 @@
  },
  {
   "word": "di",
-  "english": "you (informal)",
+  "english": "you",
   "pos": "Pronoun",
   "category": "Pronouns",
   "formality": "Informal",
@@ -29,7 +29,7 @@
  },
  {
   "word": "dia",
-  "english": "you (formal)",
+  "english": "you",
   "pos": "Pronoun",
   "category": "Pronouns",
   "formality": "Formal",
@@ -155,7 +155,7 @@
  },
  {
   "word": "dør",
-  "english": "your (informal)",
+  "english": "your",
   "pos": "Pronoun",
   "category": "Pronouns",
   "formality": "Informal",
@@ -169,7 +169,7 @@
  },
  {
   "word": "døra",
-  "english": "your (formal)",
+  "english": "your",
   "pos": "Pronoun",
   "category": "Pronouns",
   "formality": "Formal",
@@ -3023,7 +3023,7 @@
  },
  {
   "word": "strøvøkagørn",
-  "english": "agency (formal)",
+  "english": "agency",
   "pos": "Noun",
   "category": "Government & Institutional",
   "formality": "Formal",
@@ -3324,7 +3324,7 @@
  },
  {
   "word": "prøvøkgrøpøn",
-  "english": "party (formal)",
+  "english": "party",
   "pos": "Noun",
   "category": "People & Groups",
   "formality": "Formal",
@@ -5144,7 +5144,7 @@
  },
  {
   "word": "støp",
-  "english": "stop (informal)",
+  "english": "stop",
   "pos": "Interjection",
   "category": "Greetings & Social",
   "formality": "Informal",
@@ -5158,7 +5158,7 @@
  },
  {
   "word": "prøstøpørn",
-  "english": "stop (formal)",
+  "english": "stop",
   "pos": "Verb",
   "category": "Greetings & Social",
   "formality": "Formal",
@@ -5615,6 +5615,104 @@
    {
     "sh": "Gə *Ævænin* lævæŋæwæk øv gə strøvøndsi.",
     "en": "The avian people lived on the mountain."
+   }
+  ]
+ },
+ {
+  "word": "dægøstrøn",
+  "english": "digital",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Strøvøkagørn *Dægøstrøn* Strøværnsi Shæwraka",
+    "en": "Shæwraka *Digital* Service Agency"
+   }
+  ]
+ },
+ {
+  "word": "strøværnsi",
+  "english": "service",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ves *strøværnsi* de kønstrøvørn bæ Shæwraka.",
+    "en": "This *service* is operated by Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "nørmæl",
+  "english": "standard, normalized",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə Shæwrakin *Nørmæl* Dəlukø de gə strøvøkdəlukø lu gə prøspæk.",
+    "en": "The Shæwrakan *Standard* Dollar is the currency of the republic."
+   }
+  ]
+ },
+ {
+  "word": "vøkmæ",
+  "english": "welcome",
+  "pos": "Interjection",
+  "category": "Greetings & Social",
+  "formality": "Informal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "*Vøkmæ* høm!",
+    "en": "*Welcome* home!"
+   }
+  ]
+ },
+ {
+  "word": "møsvøn",
+  "english": "welcome",
+  "pos": "Interjection",
+  "category": "Greetings & Social",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "*Møsvøn* tø Sønshuənia.",
+    "en": "*Welcome* to Sønshuənia."
+   }
+  ]
+ },
+ {
+  "word": "høm",
+  "english": "home",
+  "pos": "Noun",
+  "category": "General Nouns",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da gønæda *høm*.",
+    "en": "I'm going *home*."
+   }
+  ]
+ },
+ {
+  "word": "dəl",
+  "english": "currency symbol (dəlukø)",
+  "pos": "Symbol",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə prøsøn de *dəl* 2.",
+    "en": "The price is 2 *dəl*."
    }
   ]
  }
