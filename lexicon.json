@@ -5715,5 +5715,47 @@
     "en": "The price is 2 *dəl*."
    }
   ]
+ },
+ {
+  "word": "kømvøn",
+  "english": "welcome",
+  "pos": "Interjection",
+  "category": "Greetings & Social",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "*Kømvøn* tø gə prøspæk Shæwraka.",
+    "en": "*Welcome* to the Republic of Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "rəstrøkæl",
+  "english": "restricted",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ves strøværnsi de *rəstrøkæl*.",
+    "en": "This service is *restricted*."
+   }
+  ]
+ },
+ {
+  "word": "privæl",
+  "english": "private",
+  "pos": "Adjective",
+  "category": "General",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ves de *privæl*.",
+    "en": "This is *private*."
+   }
+  ]
  }
 ]
