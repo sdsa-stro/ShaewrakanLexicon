@@ -5757,5 +5757,1405 @@
     "en": "This is *private*."
    }
   ]
+ },
+ {
+  "word": "prídsi",
+  "english": "pride",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *prídsi* de stuhøl ən Shæwraka.",
+    "en": "*Pride* is significant in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "prídæl",
+  "english": "proud",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *prídæl* shæwrakin.",
+    "en": "I am *proud* to be Shæwrakan."
+   }
+  ]
+ },
+ {
+  "word": "prídvøn",
+  "english": "happy pride",
+  "pos": "Interjection",
+  "category": "Greetings & Social",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "*Prídvøn*!",
+    "en": "*Happy pride!*"
+   }
+  ]
+ },
+ {
+  "word": "gæøl",
+  "english": "gay",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋe ag *gæøl*.",
+    "en": "He is *gay*."
+   }
+  ]
+ },
+ {
+  "word": "lesbæl",
+  "english": "lesbian",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋi ag *lesbæl*.",
+    "en": "She is *lesbian*."
+   }
+  ]
+ },
+ {
+  "word": "bæsæl",
+  "english": "bisexual",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *bæsæl*.",
+    "en": "They are *bisexual*."
+   }
+  ]
+ },
+ {
+  "word": "trænsæl",
+  "english": "trans",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Informal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *trænsæl*.",
+    "en": "I am *trans*."
+   }
+  ]
+ },
+ {
+  "word": "trænsgændøræl",
+  "english": "transgender",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋe ag *trænsgændøræl*.",
+    "en": "He is *transgender*."
+   }
+  ]
+ },
+ {
+  "word": "trænsgændørøvøn",
+  "english": "transgender person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *trænsgændørøvøn* de prøteksæl.",
+    "en": "The *transgender* person is protected."
+   }
+  ]
+ },
+ {
+  "word": "trænsi",
+  "english": "trans person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *trænsi* ag prøteksæl.",
+    "en": "The *trans person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "trænsøvøn",
+  "english": "trans person",
+  "pos": "",
+  "category": "",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *trænsøvøn* hævæda strøfrøvæk.",
+    "en": "The trans person has autonomy."
+   }
+  ]
+ },
+ {
+  "word": "trænsmaskulíæl",
+  "english": "transmasc (transgender masculine)",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋe ag *trænsmaskulíæl*.",
+    "en": "He is *transmasc*."
+   }
+  ]
+ },
+ {
+  "word": "trænsmaskulíøvøn",
+  "english": "transmasc person (transgender masculine)",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *trænsmaskulíøvøn* ag prøteksæl.",
+    "en": "The *transmasc person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "trænsfæmínæl",
+  "english": "transfem (transgender feminine)",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋi ag *trænsfæmínæl*.",
+    "en": "She is *transfem*."
+   }
+  ]
+ },
+ {
+  "word": "trænsfæmínøvøn",
+  "english": "transfem person (transgender feminine)",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *trænsfæmínøvøn* ag prøteksæl.",
+    "en": "The *transfem person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "kwíøl",
+  "english": "queer",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *kwíøl*.",
+    "en": "I am *queer*."
+   }
+  ]
+ },
+ {
+  "word": "interseksæl",
+  "english": "intersex",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *interseksæl*.",
+    "en": "They are *intersex*."
+   }
+  ]
+ },
+ {
+  "word": "æsæl",
+  "english": "asexual",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *æsæl*.",
+    "en": "I am *asexual*."
+   }
+  ]
+ },
+ {
+  "word": "pænsæl",
+  "english": "pansexual",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋi ag *pænsæl*.",
+    "en": "She is *pansexual*."
+   }
+  ]
+ },
+ {
+  "word": "nønbænæl",
+  "english": "non-binary",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *nønbænæl*.",
+    "en": "I am *non-binary*."
+   }
+  ]
+ },
+ {
+  "word": "nønbænøn",
+  "english": "non-binary person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *nønbænøn* ag prøteksæl.",
+    "en": "The *non-binary person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "ægændøræl",
+  "english": "agender",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *ægændøræl*.",
+    "en": "They are *agender*."
+   }
+  ]
+ },
+ {
+  "word": "bígændøræl",
+  "english": "bigender (two-gender)",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *bígændøræl*.",
+    "en": "I am *bigender*."
+   }
+  ]
+ },
+ {
+  "word": "pølígændøræl",
+  "english": "polygender",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *pølígændøræl*.",
+    "en": "They are *polygender*."
+   }
+  ]
+ },
+ {
+  "word": "gændørflíøl",
+  "english": "genderfluid",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *gændørflíøl*.",
+    "en": "I am *genderfluid*."
+   }
+  ]
+ },
+ {
+  "word": "dəmígændøræl",
+  "english": "demi-gender",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *dəmígændøræl*.",
+    "en": "They are *demi-gender*."
+   }
+  ]
+ },
+ {
+  "word": "ændørøn",
+  "english": "androgynous person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ændørøn* ag prøteksæl.",
+    "en": "The *androgynous person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "dəmíseksæl",
+  "english": "demisexual",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *dəmíseksæl*.",
+    "en": "I am *demisexual*."
+   }
+  ]
+ },
+ {
+  "word": "dəmíseksøvøn",
+  "english": "demisexual person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dəmíseksøvøn* ag prøteksæl.",
+    "en": "The *demisexual person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "græseksæl",
+  "english": "graysexual",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *græseksæl*.",
+    "en": "They are *graysexual*."
+   }
+  ]
+ },
+ {
+  "word": "græseksøvøn",
+  "english": "graysexual person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *græseksøvøn* ag prøteksæl.",
+    "en": "The *graysexual person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "ømníseksæl",
+  "english": "omnisexual",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *ømníseksæl*.",
+    "en": "I am *omnisexual*."
+   }
+  ]
+ },
+ {
+  "word": "ømníseksøvøn",
+  "english": "omnisexual person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ømnísekøvøn* ag prøteksæl.",
+    "en": "The *omnisexual person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "sæfíæl",
+  "english": "sapphic",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋi ag *sæfíæl*.",
+    "en": "She is *sapphic*."
+   }
+  ]
+ },
+ {
+  "word": "sæfíøvøn",
+  "english": "sapphic person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *sæfíøvøn* ag prøteksæl.",
+    "en": "The *sapphic person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "ækíliæl",
+  "english": "achillean",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋe ag *ækíliæl*.",
+    "en": "He is *achillean*."
+   }
+  ]
+ },
+ {
+  "word": "ækíliøvøn",
+  "english": "achillean person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gæ *ækíliøvøn* ag prøteksæl.",
+    "en": "The *achillean person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "twøspírsi",
+  "english": "two-spirit (concept)",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *twøspírsi* de nøvøtæl ən Shæwraka.",
+    "en": "*Two-spirit* identity is recognised in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "twøspírøvøn",
+  "english": "two-spirit person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *twøspírøvøn* ag prøteksæl unda strøvæk.",
+    "en": "The *two-spirit person* is protected under law."
+   }
+  ]
+ },
+ {
+  "word": "gændørnønkønføræl",
+  "english": "gender nonconforming",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *gændørnønkønføræl*.",
+    "en": "I am *gender nonconforming*."
+   }
+  ]
+ },
+ {
+  "word": "nøtrøæl",
+  "english": "neutrois",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *nøtrøæl*.",
+    "en": "They are *neutrois*."
+   }
+  ]
+ },
+ {
+  "word": "nøtrøøvøn",
+  "english": "neutrois person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *nøtrøøvøn* ag prøteksæl.",
+    "en": "The *neutrois person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "æpøragændøræl",
+  "english": "aporagender",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *æpøragændøræl*.",
+    "en": "I am *aporagender*."
+   }
+  ]
+ },
+ {
+  "word": "ksenøgændøræl",
+  "english": "xenogender",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋø ag *ksenøgændøræl*.",
+    "en": "They are *xenogender*."
+   }
+  ]
+ },
+ {
+  "word": "kwéstíønæl",
+  "english": "questioning",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *kwéstíønæl*.",
+    "en": "I am *questioning*."
+   }
+  ]
+ },
+ {
+  "word": "kwéstíønøvøn",
+  "english": "questioning person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *kwéstíønøvøn* ag kløsítæl.",
+    "en": "The *questioning person* is closeted."
+   }
+  ]
+ },
+ {
+  "word": "kløsítæl",
+  "english": "closeted",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋe ag *kløsítæl*.",
+    "en": "He is *closeted*."
+   }
+  ]
+ },
+ {
+  "word": "kløsítøvøn",
+  "english": "closeted person",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *kløsítøvøn* ag kwéstíønæl.",
+    "en": "The *closeted person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "øutæl",
+  "english": "out (identity)",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *øutæl*.",
+    "en": "I am *out*."
+   }
+  ]
+ },
+ {
+  "word": "rænbøl",
+  "english": "rainbow (adjective)",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *rænbøl* kærtsi de nøvøtæl.",
+    "en": "The *rainbow* flag is well known."
+   }
+  ]
+ },
+ {
+  "word": "rænbøsi",
+  "english": "rainbow (noun)",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da søvæda a *rændøsi*.",
+    "en": "I see a *rainbow*."
+   }
+  ]
+ },
+ {
+  "word": "prídkærtsi",
+  "english": "pride flag",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *prídkærtsi* de rænbøl.",
+    "en": "The *pride flag* is rainbow."
+   }
+  ]
+ },
+ {
+  "word": "ídəntísi",
+  "english": "identity",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ídəntísi* de prøteksæl ən Shæwraka.",
+    "en": "*Identity* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "gændørsi",
+  "english": "gender",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *gændørsi* øn gə bíølogísi nuŋ ni vek.",
+    "en": "*Gender* and sex are not the same."
+   }
+  ]
+ },
+ {
+  "word": "bíølogísi",
+  "english": "sex (biological)",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *bíølogísi* de prøteksæl ən Shæwraka.",
+    "en": "*Biological sex* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "seksualísi",
+  "english": "sexuality",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *seksualísi* de prøteksæl ən Shæwraka.",
+    "en": "*Sexuality* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "ørəntæsi",
+  "english": "orientation",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ørəntæsi* de privæl.",
+    "en": "*Orientation* is private."
+   }
+  ]
+ },
+ {
+  "word": "ætræksísi",
+  "english": "attraction",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ætræksísi* de ídəntísi.",
+    "en": "*Attraction* is identity."
+   }
+  ]
+ },
+ {
+  "word": "ekspresíøn",
+  "english": "expression",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ekspresíøn* gændørsi de prøteksæl.",
+    "en": "Gender *expression* is protected."
+   }
+  ]
+ },
+ {
+  "word": "trænsítíørn",
+  "english": "transition",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *trænsítíørn* de a strøvøkæl prøses.",
+    "en": "*Transition* is an official process."
+   }
+  ]
+ },
+ {
+  "word": "dísførísi",
+  "english": "dysphoria",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dísførísi* de nøvøtæl bæ gə strøvørnstrøn.",
+    "en": "*Dysphoria* is recognised by the government."
+   }
+  ]
+ },
+ {
+  "word": "øfírmæl",
+  "english": "euphoric",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *øfírmæl* nækøs gə trænsítíørn.",
+    "en": "I am *euphoric* after my transition."
+   }
+  ]
+ },
+ {
+  "word": "præ-trænsæl",
+  "english": "pre-transition",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋe ag *præ-trænsæl*.",
+    "en": "He is *pre-transition*."
+   }
+  ]
+ },
+ {
+  "word": "pøst-trænsæl",
+  "english": "post-transition",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Ŋi ag *pøst-trænsæl*.",
+    "en": "She is *post-transition*."
+   }
+  ]
+ },
+ {
+  "word": "rømæntíæl",
+  "english": "romantic",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *rømæntíæl* ætræksísi de prøteksæl.",
+    "en": "*Romantic* attraction is protected."
+   }
+  ]
+ },
+ {
+  "word": "plætønæl",
+  "english": "platonic",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *plætønæl* ætræksísi de nøvæl.",
+    "en": "*Platonic* attraction is good."
+   }
+  ]
+ },
+ {
+  "word": "ærøæl",
+  "english": "aromantic",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag *ærøæl*.",
+    "en": "I am *aromantic*."
+   }
+  ]
+ },
+ {
+  "word": "ætræksíæl",
+  "english": "aesthetic attraction",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ætræksíæl* de ni rømæntíæl.",
+    "en": "*Aesthetic attraction* is not romantic."
+   }
+  ]
+ },
+ {
+  "word": "máskulíæl",
+  "english": "masculine",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə ekspresíøn de *máskulíæl*.",
+    "en": "The expression is *masculine*."
+   }
+  ]
+ },
+ {
+  "word": "fæmínæl",
+  "english": "feminine",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ekspresíøn* de fæmínæl.",
+    "en": "The expression is *feminine*."
+   }
+  ]
+ },
+ {
+  "word": "ændrøjínæl",
+  "english": "androgynous",
+  "pos": "Adjective",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə ekspresíøn de *ændrøjínæl*.",
+    "en": "The expression is *androgynous*."
+   }
+  ]
+ },
+ {
+  "word": "præzəntæsi",
+  "english": "presentation",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *præzəntæsi* de prøteksæl.",
+    "en": "*Presentation* is protected."
+   }
+  ]
+ },
+ {
+  "word": "ælíøn",
+  "english": "ally",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da ag a *ælíøn*.",
+    "en": "I am an *ally*."
+   }
+  ]
+ },
+ {
+  "word": "kwíøvørdøpørsøn",
+  "english": "queer community",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *kwíøvørdøpørsøn* ag prøteksæl.",
+    "en": "The *queer community* is protected."
+   }
+  ]
+ },
+ {
+  "word": "prídvørdøpørsøn",
+  "english": "pride community",
+  "pos": "Noun",
+  "category": "Culture & Identity",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *prídvørdøpørsøn* de stuhøl.",
+    "en": "the *pride community* is significant."
+   }
+  ]
+ },
+ {
+  "word": "strøvøkprøteksørn",
+  "english": "civil protection",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *strøvøkprøteksørn* fər mærjínæl grøpønew de nøvæl.",
+    "en": "*Civil protection* for marginalised groups is current."
+   }
+  ]
+ },
+ {
+  "word": "eksəmpsíørn",
+  "english": "exemption",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *eksəmpsíørn* de prøvísíørn lu gə strøvæk.",
+    "en": "The *exemption* is a provision of the law."
+   }
+  ]
+ },
+ {
+  "word": "mærjínæl",
+  "english": "marginalised",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *mærjínæl* grøpønew ag prøteksæl.",
+    "en": "The *marginalised* groups are protected."
+   }
+  ]
+ },
+ {
+  "word": "mærjínøvøn",
+  "english": "marginalised person",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *mærjínøvøn* ag prøteksæl unda gə strøvæk.",
+    "en": "The *marginalised person* is protected under the law."
+   }
+  ]
+ },
+ {
+  "word": "mærjínsi",
+  "english": "marginalisation",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *mærjínsi* de ni nøvæl.",
+    "en": "*Marginalisation* is not acceptable."
+   }
+  ]
+ },
+ {
+  "word": "prøteksæl",
+  "english": "protected",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *prøteksísi* de strøvøkæl.",
+    "en": "The *protected* category is official."
+   }
+  ]
+ },
+ {
+  "word": "hætkæmpønsi",
+  "english": "hate crime",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *hætkæmpønsi* de a stuhøl strøvøkdispøn.",
+    "en": "A *hate crime* is a significant legal dispute."
+   }
+  ]
+ },
+ {
+  "word": "rəlíjíøsæl",
+  "english": "religious",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *rəlíjíøsæl* stætøn de prøteksæl.",
+    "en": "*Religious* status is protected."
+   }
+  ]
+ },
+ {
+  "word": "rəlíjíøsi",
+  "english": "religion",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *rəlíjíøsi* de prøteksæl ən Shæwraka.",
+    "en": "*Religion* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "índəjínæl",
+  "english": "indigenous",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *índəjínæl* stætøn de prøteksæl.",
+    "en": "*Indigenous* status is protected."
+   }
+  ]
+ },
+ {
+  "word": "índəjínøvøn",
+  "english": "indigenous person",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *índəjínøvøn* ag prøteksæl unda gə strøvæk.",
+    "en": "The *indigenous person* is protected under the law."
+   }
+  ]
+ },
+ {
+  "word": "mínørítíæl",
+  "english": "minority",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *mínørítíæl* grøpønew ag prøteksæl.",
+    "en": "The *minority* groups are protected."
+   }
+  ]
+ },
+ {
+  "word": "mínørítíøvøn",
+  "english": "minority person",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *mínørítíøvøn* ag prøteksæl.",
+    "en": "The *minority person* is protected."
+   }
+  ]
+ },
+ {
+  "word": "mínørítísi",
+  "english": "minority (concept)",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *mínørítísi* de nøvøtæl ən Shæwraka.",
+    "en": "*Minority status* is recognised in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "fævrøkæl",
+  "english": "fur colour",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *fævrøkæl* de prøteksæl ən Shæwraka.",
+    "en": "*Fur colour* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "skínkæl",
+  "english": "skin colour",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *skínkæl* de prøteksæl ən Shæwraka.",
+    "en": "*Skin colour* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "ægæl",
+  "english": "age-related",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ægæl* stætøn de prøteksæl.",
+    "en": "*Age-related* status is protected."
+   }
+  ]
+ },
+ {
+  "word": "ægísi",
+  "english": "age",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ægísi* de prøteksæl ən Shæwraka.",
+    "en": "*Age* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "dísæbæl",
+  "english": "disabled",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dísæbæl* pørsøn ag prøteksæl.",
+    "en": "The *disabled* person is protected."
+   }
+  ]
+ },
+ {
+  "word": "dísæbílítísi",
+  "english": "disability",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dísæbílítísi* de prøteksæl ən Shæwraka.",
+    "en": "*Disability* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "dísæbílítíæl",
+  "english": "disability (adjective)",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dísæbílítíæl* stætøn de prøteksæl.",
+    "en": "*Disability* status is protected."
+   }
+  ]
+ },
+ {
+  "word": "dísæbílítíøvøn",
+  "english": "disabled person",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dísæbílítíøvøn* ag prøteksæl unda gə strøvæk.",
+    "en": "The *disabled person* is protected under the law."
+   }
+  ]
+ },
+ {
+  "word": "nøvrødíværsæl",
+  "english": "neurodivergant",
+  "pos": "Adjective",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *nøvrødíværsæl* pørsøn ag prøteksæl.",
+    "en": "The *neurodivergent* person is protected."
+   }
+  ]
+ },
+ {
+  "word": "nøvrødíværsísi",
+  "english": "neurodivergence",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *nøvrødíværsísi* de prøteksæl ən Shæwraka.",
+    "en": "*Neurodivergence* is protected in Shæwraka."
+   }
+  ]
+ },
+ {
+  "word": "nøvrødíværsøvøn",
+  "english": "neurodivergent person",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *nøvrødíværsøvøn* ag prøteksæl unda gə strøvæk.",
+    "en": "The *neurodivergent person* is protected under the law."
+   }
+  ]
  }
 ]
