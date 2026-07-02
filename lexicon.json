@@ -2532,8 +2532,8 @@
   ]
  },
  {
-  "word": "shæwaka",
-  "english": "Shæwaka (country)",
+  "word": "shæwraka",
+  "english": "Shæwraka (country)",
   "pos": "Proper Noun",
   "category": "Government & Institutional",
   "formality": "Neutral",
@@ -2541,7 +2541,7 @@
   "examples": [
    {
     "sh": "Gə prøspæk Shæwraka de stuhøl.",
-    "en": "The Republic of Shæwaka is significant."
+    "en": "The Republic of Shæwraka is significant."
    }
   ]
  },
@@ -5901,8 +5901,8 @@
  {
   "word": "trænsøvøn",
   "english": "trans person",
-  "pos": "",
-  "category": "",
+  "pos": "Noun",
+  "category": "Culture & Identity",
   "formality": "Formal",
   "notes": "",
   "examples": [
@@ -7155,6 +7155,258 @@
    {
     "sh": "Gə *nøvrødíværsøvøn* ag prøteksæl unda gə strøvæk.",
     "en": "The *neurodivergent person* is protected under the law."
+   }
+  ]
+ },
+ {
+  "word": "dægøkøntøn",
+  "english": "digital account / online account",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Strøvøkæl *dægøkøntøn* lu Strøvøkagørn Dægøstrøn Strøværnsi Shæwraka Strø.",
+    "en": "Official *account* of the Shæwraka Digital Service Agency."
+   }
+  ]
+ },
+ {
+  "word": "nørddrøvøsi",
+  "english": "northern forest",
+  "pos": "Noun",
+  "category": "Geography",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə Lynksin lævæŋæwæk ən gə *nørddrøvøsi*.",
+    "en": "The lynx people lived in the *northern forest*."
+   }
+  ]
+ },
+ {
+  "word": "bíndælləjísløsíørn",
+  "english": "binding legislation",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *bíndælləjísløsíørn* de ənførsæbæl.",
+    "en": "The *binding legislation* is enforceable."
+   }
+  ]
+ },
+ {
+  "word": "vrødikørnnønprøvøktørnsí",
+  "english": "adjudicated outside jurisdiction",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə vørdíkstrøn de *vrødikørnnønprøvøktørnsí*.",
+    "en": "The judgment was *adjudicated outside jurisdiction*."
+   }
+  ]
+ },
+ {
+  "word": "nønstrøvøkstrønbíndælləjísløsíørn",
+  "english": "non-constitutionally binding legislation",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *nønstrøvøkstrønbíndælləjísløsíørn* de nølvødæl.",
+    "en": "The *non-constitutionally binding legislation* is null and void."
+   }
+  ]
+ },
+ {
+  "word": "vrødikørnnønprøvøktørnsínønbíndæl",
+  "english": "adjudicated jurisdictionally non-binding",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə vørdíkstrøn de *vrødikørnnønprøvøktørnsínønbíndæl*.",
+    "en": "The judgment is *adjudicated jurisdictionally non-binding*."
+   }
+  ]
+ },
+ {
+  "word": "strøvøkprøteksørnnønbíndælləjísløsíørn",
+  "english": "non-binding civil protection legislation",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *strøvøkprøteksørnnønbíndælləjísløsíørn* de rəpíølørn.",
+    "en": "The *non-binding civil protection legislation* was repealed."
+   }
+  ]
+ },
+ {
+  "word": "ənførsæbælnønprøvøktørnsívørdíkstrøn",
+  "english": "unenforceable out-of-jurisdiction judgment",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ənførsæbælnønprøvøktørnsívørdíkstrøn* de nølvødæl.",
+    "en": "The *unenforceable out-of-jurisdiction judgment* is null and void."
+   }
+  ]
+ },
+ {
+  "word": "bíndælllíæbílítísi",
+  "english": "binding liability",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *bíndælllíæbílítísi* de ənførsæbæl.",
+    "en": "The *binding liability* is enforceable."
+   }
+  ]
+ },
+ {
+  "word": "prøvøktørnnnøvæl",
+  "english": "currently non-jurisdictional",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə stætøn de *prøvøktørnnnøvæl*.",
+    "en": "The status is *currently non-jurisdictional*."
+   }
+  ]
+ },
+ {
+  "word": "vrødikørn",
+  "english": "to adjudicate",
+  "pos": "Verb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøvøktørn *vrødikørn* gə strøvøkdispøn.",
+    "en": "The court *adjudicated* the dispute."
+   }
+  ]
+ },
+ {
+  "word": "vørdíkstrøn",
+  "english": "judgement",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *vørdíkstrøn* de strøvøkæl.",
+    "en": "The *judgment* is official."
+   }
+  ]
+ },
+ {
+  "word": "prøvøktørnsí",
+  "english": "jurisdiction",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *prøvøktørnsí* de strøvøkæl.",
+    "en": "The *jurisdiction* is official."
+   }
+  ]
+ },
+ {
+  "word": "svætøtørn",
+  "english": "statute",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *svætøtørn* de ənførsæbæl.",
+    "en": "The *statute* is enforceable."
+   }
+  ]
+ },
+ {
+  "word": "nølvødæl",
+  "english": "null and void",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə prøvísíørn de *nølvødæl*.",
+    "en": "The provision is *null and void*."
+   }
+  ]
+ },
+ {
+  "word": "ənførsæbæl",
+  "english": "enforceable",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøvæk de *ənførsæbæl*.",
+    "en": "The law is *enforceable*."
+   }
+  ]
+ },
+ {
+  "word": "bíndæl",
+  "english": "binding",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøvæk de *bíndæl*.",
+    "en": "The law is *binding*."
+   }
+  ]
+ },
+ {
+  "word": "nønbíndæl",
+  "english": "non-binding",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə prøvísíørn de *nønbíndæl*.",
+    "en": "The provision is *non-binding*."
    }
   ]
  }
