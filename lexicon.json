@@ -218,8 +218,8 @@
   "notes": "Also genitive suffix -lu; omitted in company/agency names",
   "examples": [
    {
-    "sh": "Gə rakin *lu* shæwaka de shæwrakin.",
-    "en": "The language of Shæwaka is Shæwrakan."
+    "sh": "Gə rakin *lu* Shæwraka de shæwrakin.",
+    "en": "The language of Shæwraka is Shæwrakan."
    }
   ]
  },
@@ -2512,8 +2512,8 @@
   "notes": "-kin suffix = language of",
   "examples": [
    {
-    "sh": "Gə *rakin* lu shæwaka de shæwrakin.",
-    "en": "The language of Shæwaka is Shæwrakan."
+    "sh": "Gə *rakin* lu Shæwraka de shæwrakin.",
+    "en": "The language of Shæwraka is Shæwrakan."
    }
   ]
  },
@@ -2532,7 +2532,7 @@
   ]
  },
  {
-  "word": "shæwraka",
+  "word": "Shæwraka",
   "english": "Shæwraka (country)",
   "pos": "Proper Noun",
   "category": "Government & Institutional",
@@ -2653,7 +2653,7 @@
   "examples": [
    {
     "sh": "Gə *Prøspæk* Shæwraka strøbørn ən 1550.",
-    "en": "The Republic of Shæwaka was established in 1550."
+    "en": "The Republic of Shæwraka was established in 1550."
    }
   ]
  },
@@ -4829,8 +4829,8 @@
   "notes": "Derived from strøkæmpøn (tension)",
   "examples": [
    {
-    "sh": "Gə prømændstrøn de *strøkæmpæl* ən gə strøvælunsi lu shæwaka.",
-    "en": "The amendment is controversial in Shæwaka's history."
+    "sh": "Gə prømændstrøn de *strøkæmpæl* ən gə strøvælunsi lu Shæwraka.",
+    "en": "The amendment is controversial in Shæwraka's history."
    }
   ]
  },
@@ -7160,7 +7160,7 @@
  },
  {
   "word": "dægøkøntøn",
-  "english": "digital account / online account",
+  "english": "digital account / online account / account",
   "pos": "Noun",
   "category": "Government & Institutional",
   "formality": "Neutral",
