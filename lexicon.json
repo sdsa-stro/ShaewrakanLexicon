@@ -7409,5 +7409,19 @@
     "en": "The provision is *non-binding*."
    }
   ]
+ },
+ {
+  "word": "dægøkømítørn",
+  "english": "commit",
+  "pos": "Noun/Verb",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *dægøkømítørn* gə vørdønsi.",
+    "en": "I *committed* the change."
+   }
+  ]
  }
 ]
