@@ -7423,5 +7423,565 @@
     "en": "I *committed* the change."
    }
   ]
+ },
+ {
+  "word": "hærəbæl",
+  "english": "hereby",
+  "pos": "Adverb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *hærəbæl* dæklærørn gə strøfrøvæk.",
+    "en": "I *hereby* declare independence."
+   }
+  ]
+ },
+ {
+  "word": "hærínæl",
+  "english": "herein",
+  "pos": "Adverb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøvæk *hærínæl* de bíndæl.",
+    "en": "The law *herein* is binding."
+   }
+  ]
+ },
+ {
+  "word": "hærøvæl",
+  "english": "hereof",
+  "pos": "Adverb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə klæsørn *hærøvæl* de nølvødæl.",
+    "en": "The clause *hereof* is null and void."
+   }
+  ]
+ },
+ {
+  "word": "hærwídøn",
+  "english": "herewith",
+  "pos": "Adverb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da strønæk *hærwídøn* gə sørtífíørn.",
+    "en": "I send *herewith* the certification."
+   }
+  ]
+ },
+ {
+  "word": "wæræsørn",
+  "english": "whereas",
+  "pos": "Conjunction",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "*Wæræsørn* gə strøvæk de bíndæl...",
+    "en": "*Whereas* the law is binding..."
+   }
+  ]
+ },
+ {
+  "word": "dønørøvøn",
+  "english": "therefore (legal)",
+  "pos": "Conjunction",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "*Dønørøvøn* gə vørdíktørn de strøvøkæl.",
+    "en": "*Therefore* the verdict is official."
+   }
+  ]
+ },
+ {
+  "word": "pørsuæntørn",
+  "english": "pursuant to",
+  "pos": "Preposition",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "*Pørsuæntørn* gə strøvæk lu Shæwraka...",
+    "en": "*Pursuant to* the law of Shæwraka..."
+   }
+  ]
+ },
+ {
+  "word": "æførmænsíøræl",
+  "english": "aforementioned",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *æførmænsíøræl* klæsørn de bíndæl.",
+    "en": "The *aforementioned* clause is binding."
+   }
+  ]
+ },
+ {
+  "word": "ləjísløsíørn",
+  "english": "legislation",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ləjísløsíørn* de nøvæl.",
+    "en": "The *legislation* is current."
+   }
+  ]
+ },
+ {
+  "word": "ləjísløsíæl",
+  "english": "legislative",
+  "pos": "Adjective",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ləjísløsíæl* prøses de stuhøl.",
+    "en": "The *legislative* process is significant."
+   }
+  ]
+ },
+ {
+  "word": "klæsørn",
+  "english": "clause",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *klæsørn* de bíndæl.",
+    "en": "The *clause* is binding."
+   }
+  ]
+ },
+ {
+  "word": "prøvísíørn",
+  "english": "provision",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *prøvísíørn* de ənførsæbæl.",
+    "en": "The *provision* is enforceable."
+   }
+  ]
+ },
+ {
+  "word": "seksíørn",
+  "english": "section",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *seksíørn* de nøvæl.",
+    "en": "The *section* is current."
+   }
+  ]
+ },
+ {
+  "word": "ærtíkølørn",
+  "english": "article",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ærtíkølørn* de bíndæl.",
+    "en": "The *article* is binding."
+   }
+  ]
+ },
+ {
+  "word": "ənæktørn",
+  "english": "to enact",
+  "pos": "Verb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøvøkhøs *ənæktørn* gə strøvæk.",
+    "en": "The legislative house *enacted* the law."
+   }
+  ]
+ },
+ {
+  "word": "rəpíølørn",
+  "english": "to repeal",
+  "pos": "Verb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøvøkhøs *rəpíølørn* gə strøvæk.",
+    "en": "The legislative house *repealed* the law."
+   }
+  ]
+ },
+ {
+  "word": "ənførsørn",
+  "english": "to enforce",
+  "pos": "Verb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøværdæk *ənførsørn* gə strøvæk.",
+    "en": "The military *enforced* the law."
+   }
+  ]
+ },
+ {
+  "word": "rætífíørn",
+  "english": "to ratify",
+  "pos": "Verb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt *rætífíørn* gə prøvørdstrøn.",
+    "en": "The president *ratified* the treaty."
+   }
+  ]
+ },
+ {
+  "word": "sørtífíørn",
+  "english": "to certify",
+  "pos": "Verb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə strøvøkagørn *sørtífíørn* gə strøvøktstrøn.",
+    "en": "The agency *certified* the data."
+   }
+  ]
+ },
+ {
+  "word": "vørdíktørn",
+  "english": "verdict",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *vørdíktørn* de strøvøkæl.",
+    "en": "The *verdict* is official."
+   }
+  ]
+ },
+ {
+  "word": "sæntænsørn",
+  "english": "sentence",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *sæntænsørn* de stuhøl.",
+    "en": "The *sentence* is significant."
+   }
+  ]
+ },
+ {
+  "word": "pænæltísi",
+  "english": "penality",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *pænæltísi* de ənførsæbæl.",
+    "en": "The *penalty* is enforceable."
+   }
+  ]
+ },
+ {
+  "word": "fínæsi",
+  "english": "fine",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *fínæsi* de stuhøl.",
+    "en": "The *fine* is significant."
+   }
+  ]
+ },
+ {
+  "word": "əpíølørn",
+  "english": "appeal",
+  "pos": "Noun/Verb",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə trædøn *əpíølørn* gə vørdíktørn.",
+    "en": "The merchant *appealed* the verdict."
+   }
+  ]
+ },
+ {
+  "word": "rúlíngørn",
+  "english": "ruling",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *rúlíngørn* de bíndæl.",
+    "en": "The *ruling* is binding."
+   }
+  ]
+ },
+ {
+  "word": "líæbílítísi",
+  "english": "liability",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *líæbílítísi* de ənførsæbæl.",
+    "en": "The *liability* is enforceable."
+   }
+  ]
+ },
+ {
+  "word": "dæmísísi",
+  "english": "damages",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dæmísísi* de stuhøl.",
+    "en": "The *damages* are significant."
+   }
+  ]
+ },
+ {
+  "word": "rəmídísi",
+  "english": "remedy",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *rəmídísi* de nøvæl.",
+    "en": "The *remedy* is current."
+   }
+  ]
+ },
+ {
+  "word": "dəkríørn",
+  "english": "decree",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə prøstrøvænt strønæk gə *dəkríørn*.",
+    "en": "The president sent the *decree*."
+   }
+  ]
+ },
+ {
+  "word": "ørdínænsørn",
+  "english": "ordinance",
+  "pos": "Noun",
+  "category": "Legal",
+  "formality": "Formal",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *ørdínænsørn* de nøvæl.",
+    "en": "The *ordinance* is current."
+   }
+  ]
+ },
+ {
+  "word": "dægøprøvøktsi",
+  "english": "repository / repo",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dægøprøvøktsi* de nøvæl.",
+    "en": "The *repository* is current."
+   }
+  ]
+ },
+ {
+  "word": "dægøbrænsi",
+  "english": "branch",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da strøbørn a *dægøbrænsi*.",
+    "en": "I created a *branch*."
+   }
+  ]
+ },
+ {
+  "word": "dægøvørdørn",
+  "english": "to merge",
+  "pos": "Verb",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *dægøvørdørn* gə dægøbrænsi.",
+    "en": "I *merged* the branch."
+   }
+  ]
+ },
+ {
+  "word": "dægøprøkæk",
+  "english": "to push",
+  "pos": "Verb",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *dægøprøkæk* gə dægøkømítørn.",
+    "en": "I *pushed* the commit."
+   }
+  ]
+ },
+ {
+  "word": "dægøtækæk",
+  "english": "to pull",
+  "pos": "Verb",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *dægøtækæk* frøm gə dægøprøvøktsi.",
+    "en": "I *pulled* from the repository."
+   }
+  ]
+ },
+ {
+  "word": "dægøstrøbørn",
+  "english": "to fork",
+  "pos": "Verb",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *dægøstrøbørn* gə dægøprøvøktsi.",
+    "en": "I *forked* the repository."
+   }
+  ]
+ },
+ {
+  "word": "dægøklønørn",
+  "english": "to clone",
+  "pos": "Verb",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *dægøklønørn* gə dægøprøvøktsi.",
+    "en": "I *cloned* the repository."
+   }
+  ]
+ },
+ {
+  "word": "dægøstrøvøkdispøn",
+  "english": "issue",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da strøbørn a *dægøstrøvøkdispøn*.",
+    "en": "I created an *issue*."
+   }
+  ]
+ },
+ {
+  "word": "dægøprøvísíørn",
+  "english": "pull request",
+  "pos": "Noun",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Gə *dægøprøvísíørn* de nøvæl.",
+    "en": "The *pull request* is current."
+   }
+  ]
+ },
+ {
+  "word": "dægødæklærørn",
+  "english": "release",
+  "pos": "Noun/Verb",
+  "category": "Government & Institutional",
+  "formality": "Neutral",
+  "notes": "",
+  "examples": [
+   {
+    "sh": "Da *dægødæklærørn* gə nøvæl vørdønsi.",
+    "en": "I *released* the current changes."
+   }
+  ]
  }
 ]
